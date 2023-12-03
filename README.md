@@ -7,7 +7,7 @@ Also included are various mods that don't exist in the original, plus a few grap
 to ensure your hack will have the nicest experience!
 
 You can use Archbishop, a GameMaker project, as a tool to create new maps for your project.
-Project map files are stored at C:\Users<username>\AppData\Local\Archbishop<project_name>
+Project map files are stored at C:\Users\<username>\AppData\Local\Archbishop<project_name>
 
 More editors may come, but you can try using ThingMaker in the meantime to make units for players/enemies (requires knowledge of Python).
 
