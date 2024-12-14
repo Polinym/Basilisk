@@ -1,0 +1,11 @@
+{00}
+Y: 84
+X: 8f
+Type: 39
+List: 35
+{01}
+Y: ac
+X: e7
+Type: 02
+List: 0b
+{END}

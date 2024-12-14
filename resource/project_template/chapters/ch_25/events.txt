@@ -1,0 +1,7 @@
+{00}
+Y: 0f
+X: 11
+Reward: 83
+Line: 49
+Music: 20
+{END}

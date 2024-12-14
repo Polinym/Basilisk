@@ -1,0 +1,55 @@
+{00}
+Y: 0c
+X: 12
+Reward: 00
+Line: 38
+Music: 20
+{01}
+Y: 0c
+X: 13
+Reward: 00
+Line: 38
+Music: 20
+{02}
+Y: 02
+X: 0d
+Reward: 00
+Line: 1e
+Music: 00
+{03}
+Y: 0a
+X: 07
+Reward: 81
+Line: 31
+Music: 04
+{04}
+Y: 0a
+X: 0a
+Reward: 82
+Line: 32
+Music: 04
+{05}
+Y: 19
+X: 06
+Reward: 00
+Line: 2c
+Music: 00
+{06}
+Y: 14
+X: 0a
+Reward: 00
+Line: 2a
+Music: 00
+{07}
+Y: 14
+X: 0b
+Reward: 00
+Line: 2b
+Music: 00
+{08}
+Y: 13
+X: 0a
+Reward: 00
+Line: 2f
+Music: 00
+{END}

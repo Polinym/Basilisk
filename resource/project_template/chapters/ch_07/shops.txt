@@ -1,0 +1,11 @@
+{00}
+Y: 02
+X: 0d
+Type: 04
+List: 00
+{01}
+Y: 03
+X: 0d
+Type: 01
+List: 02
+{END}

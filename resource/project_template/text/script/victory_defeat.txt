@@ -1,0 +1,144 @@
+{00}
+[X: 4][Y: 9]
+[W: 14][H: 04]
+[PORTRAIT]
+[X: 4][Y: 3]
+[W: 06][H: 08]
+[C: 49]
+[MSG SPD]:[01]
+Your data has been
+saved. Will you
+continue playing?
+[YESNO]
+
+
+{01}
+Then hold RESET
+as you turn the
+POWER off!<3
+[YESNO]
+
+
+{02}
+<3
+[YESNO]
+
+
+{03}
+
+[END]
+
+
+{04}
+
+[NEXT]
+
+[JUMP]:[b1->44]
+
+{05}
+[X: 4][Y: 9]
+[W: 16][H: 04]
+[PORTRAIT]
+[X: a][Y: 5]
+[W: 06][H: 06]
+[C: 09]
+[MSG SPD]:[05]
+Ah, Lord Mars_
+How could you die?
+
+[NEXT]
+Will you try again
+from the last place
+that you saved?
+
+[YESNO]
+
+
+{06}
+[X: 4][Y: 9]
+[W: 16][H: 04]
+[PORTRAIT]
+[X: a][Y: 5]
+[W: 06][H: 06]
+[C: 08]
+[MSG SPD]:[05]
+Your highness,
+you must hold on!
+This country's
+future depends on
+you!
+
+[NEXT]
+Will you start again
+from the last place
+that you saved?
+
+[YESNO]
+
+
+{07}
+[X: 4][Y: 9]
+[W: 16][H: 04]
+[PORTRAIT]
+[X: a][Y: 5]
+[W: 06][H: 06]
+[C: 20]
+[MSG SPD]:[05]
+Mars, you can't
+die in a place
+like this!
+
+[NEXT]
+Will you start again
+from you last place
+that you saved?
+
+[YESNO]
+
+
+{08}
+[X: 4][Y: 9]
+[W: 16][H: 04]
+[PORTRAIT]
+[X: a][Y: 4]
+[W: 06][H: 08]
+[C: 05]
+[MSG SPD]:[05]
+Mars! You've used
+the last of your
+strength here_
+
+[NEXT]
+Will you start again
+from the last place
+that you saved?
+
+[YESNO]
+
+
+{09}
+from the last place
+that you saved?
+
+[YESNO]
+
+
+{0a}
+[X: 4][Y: 9]
+[W: 16][H: 04]
+[PORTRAIT]
+[X: a][Y: 5]
+[W: 06][H: 06]
+[C: 33]
+[MSG SPD]:[05]
+Prince Mars!
+You have no
+saved data!
+It's a pity,
+but you must start
+over from the
+beginning.
+[END]
+
+
+

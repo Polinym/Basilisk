@@ -1,0 +1,3 @@
+Name: Default Font
+Desc: Resets the game's font to the default English font.
+Credit: Polinym

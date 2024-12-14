@@ -1,0 +1,1063 @@
+{00}
+[TITLE]
+[X: 3][Y: 1]
+[W: 14][H: 04]
+[C: 00]
+[MESSAGE]
+[X: 1][Y: 7]
+[W: 1a][H: 05]
+[PORTRAIT]
+[X: 3][Y: 3]
+[W: 06][H: 06]
+[C: 08]
+[MSG SPD]:[03]
+@Prince Mars,
+Princess Sheeda has
+come from Talis
+castle.>
+[GOTO]:[80->02]
+
+{01}
+[TITLE]
+[X: 3][Y: 1]
+[W: 14][H: 04]
+[C: 00]
+[MESSAGE]
+[X: 1][Y: 7]
+[W: 1a][H: 05]
+[PORTRAIT]
+[X: 3][Y: 3]
+[W: 06][H: 06]
+[C: 08]
+[MSG SPD]:[03]
+@Prince Mars,
+Princess Sheeda has
+come from Talis
+castle.>
+[GOTO]:[80->02]
+
+{02}
+[PORTRAIT]
+[X: 9][Y: 3]
+[W: 06][H: 06]
+[C: 26]
+
+@What is it, Sheeda?
+Has something happened
+at the castle?>
+[GOTO]:[80->03]
+
+{03}
+[PORTRAIT]
+[X: 3][Y: 3]
+[W: 06][H: 06]
+[C: 31]
+
+@Prince Mars! Am I glad
+to see you!
+The pirates of Garda
+suddenly attacked us!
+They've taken over the
+castle and killed many
+people. Please protect
+my father!>
+[GOTO]:[80->04]
+
+{04}
+@Don't worry, Sheeda.
+The bravest knights of
+Aritia are in this fort.
+We won't lose to
+those pirates.
+Now, let's go to
+Talis castle together.>
+[END]
+
+
+{05}
+[TITLE]
+[X: 2][Y: 1]
+[W: 18][H: 04]
+[C: 01]
+[MESSAGE]
+[X: 1][Y: 7]
+[W: 1a][H: 05]
+[PORTRAIT]
+[X: 3][Y: 3]
+[W: 06][H: 06]
+[C: 2f]
+[MSG SPD]:[03]
+@Prince Mars, I am
+Oguma, a mercenary
+of Talis.>
+[NEXT]
+@I've been ordered by
+my king to join
+your army, along with
+my 3 subordinates.>
+[NEXT]
+@The pirates already
+have control over
+this port of Garda.>
+[NEXT]
+@The Grunian army
+has also come to
+defeat your highness.>
+[NEXT]
+@No matter what,
+please be cautious.>
+[END]
+
+
+{06}
+[TITLE]
+[X: 3][Y: 1]
+[W: 14][H: 04]
+[C: 02]
+[MESSAGE]
+[X: 1][Y: 7]
+[W: 1a][H: 05]
+[PORTRAIT]
+[X: 9][Y: 3]
+[W: 06][H: 06]
+[C: 2a]
+[MSG SPD]:[03]
+@Come on, Miss Lena!
+Hurry up, we're in
+serious danger!>
+[NEXT]
+I heard Aritia's
+knights are at the
+mountain's foot!
+Now's our chance!>
+[GOTO]:[80->07]
+
+{07}
+[PORTRAIT]
+[X: 3][Y: 3]
+[W: 06][H: 06]
+[C: 2b]
+
+@I'm sorry_
+But, I still
+haven't found my
+precious Relive staff.
+I can't leave 
+without it_>
+[NEXT]
+Julian, I'll be fine.
+Flee yourself!>
+[NEXT]
+If it's just you,
+I can move you
+away with this
+Warp staff.>
+[GOTO]:[80->08]
+
+{08}
+@How will that help?
+Don't you understand
+why I betrayed them
+in the first place?>
+[NEXT]
+@Anyhow, I'll get
+that staff back
+afterwards. For now,
+let's make our escape!
+Come on, let's go!>
+[END]
+
+
+{09}
+[TITLE]
+[X: 2][Y: 1]
+[W: 18][H: 04]
+[C: 03]
+[MESSAGE]
+[X: 2][Y: 5]
+[W: 18][H: 05]
+[MSG SPD]:[03]
+@Mars led the
+Aritian army through
+many difficult
+battles. Finally,
+their feet tread
+in the kingdom
+of Orleans.>
+[NEXT]
+@But to join the
+Orleans army, they
+must defeat the 
+forces that protect
+this area.>
+[NEXT]
+@Across the lea
+they hear the
+sound of warhorses.
+Dreadful footsteps_
+_are heard_>
+[END]
+
+
+{0a}
+[TITLE]
+[X: 2][Y: 1]
+[W: 18][H: 04]
+[C: 04]
+[MESSAGE]
+[X: 2][Y: 7]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 3][Y: 3]
+[W: 06][H: 06]
+[C: 0d]
+[MSG SPD]:[03]
+@Princess Nyna,
+the Aritian army has
+been sighted across
+the river.>
+[GOTO]:[80->0b]
+
+{0b}
+[PORTRAIT]
+[X: 9][Y: 3]
+[W: 06][H: 06]
+[C: 20]
+
+@Huh? Is that true,
+Hardin? Does that
+mean Prince Mars has
+finally come?>
+[GOTO]:[80->0c]
+
+{0c}
+@That's right. We can
+finally rebuild our
+army's strength.>
+[NEXT]
+@But, Princess, it is
+dangerous, so please
+wait inside the>
+fort.
+[NEXT]
+@We shall take the
+castle alongside the
+Aritian army.>
+[END]
+
+
+{0d}
+[TITLE]
+[X: 3][Y: 1]
+[W: 12][H: 04]
+[C: 05]
+[MESSAGE]
+[X: 2][Y: 7]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 3][Y: 3]
+[W: 06][H: 06]
+[C: 4e]
+[MSG SPD]:[03]
+@What?! The rebel
+army has infiltrated
+the castle?!>
+[NEXT]
+@Hmm_ Very well.
+Armor knights,
+engage the enemy!>
+[NEXT]
+@Archers, defend the
+throne.>
+[NEXT]
+@And thieves,
+gather the treasure
+and prepare to
+evacuate.>
+[NEXT]
+@Listen well!
+Don't let the rebels
+take one step into
+this room!>
+[END]
+
+
+{0e}
+[TITLE]
+[X: 2][Y: 1]
+[W: 18][H: 04]
+[C: 06]
+[MESSAGE]
+[X: 1][Y: 7]
+[W: 1a][H: 05]
+[PORTRAIT]
+[X: 9][Y: 3]
+[W: 06][H: 06]
+[C: 32]
+[MSG SPD]:[03]
+@General Harmein, 
+I cannot approve
+of these methods.>
+[NEXT]
+@As an honorable
+knight of Macedonia, I
+wish to fight an
+open battle.>
+[GOTO]:[80->0f]
+
+{0f}
+[PORTRAIT]
+[X: 3][Y: 3]
+[W: 06][H: 06]
+[C: 4d]
+
+@But Princess, your
+Macedonian army has lost
+many soldiers in
+Orleans.>
+[NEXT]
+@We must bide for
+time at this castle
+to regain power.>
+[NEXT]
+@I was dispatched here
+by his majesty's orders.
+Therefore here I
+would expect to receive
+obedience from you.>
+[NEXT]
+@Nevertheless, if you
+defy the empire's
+orders, I cannot
+guarantee your sister
+Maria's life.>
+[GOTO]:[80->10]
+
+{10}
+@_I understand.
+But I don't believe
+this method will defeat
+the Aritian knights.>
+[NEXT]
+@You will surely regret
+it in the end.>
+[END]
+
+
+{11}
+[TITLE]
+[X: 2][Y: 1]
+[W: 18][H: 04]
+[C: 07]
+[MESSAGE]
+[X: 1][Y: 7]
+[W: 1a][H: 05]
+[PORTRAIT]
+[X: 3][Y: 3]
+[W: 06][H: 06]
+[C: 13]
+[MSG SPD]:[03]
+@Prince Mars,
+We are mercenaries
+protecting Warren town.>
+[NEXT]
+@Grunia knights are
+gathered in the
+western forts and have
+the town completely
+surrounded.>
+[NEXT]
+@It's dangerous here.
+Luckily the eastern
+castle is undermanned,
+so it will fall
+easily.>
+[NEXT]
+@We'll help you
+escape to the
+eastern castle.>
+[END]
+
+
+{12}
+[TITLE]
+[X: 2][Y: 1]
+[W: 18][H: 04]
+[C: 08]
+[MESSAGE]
+[X: 1][Y: 7]
+[W: 1a][H: 05]
+[PORTRAIT]
+[X: 3][Y: 3]
+[W: 06][H: 06]
+[C: 24]
+[MSG SPD]:[03]
+@You do intrude on
+the sacred land of
+Peraty.>
+[NEXT]
+@For that, not one
+of you shall be
+left alive.>
+[NEXT]
+@You'll all be burnt
+to nothing as a
+sacrifice to me, the
+guardian Salamander!>
+[END]
+
+
+{13}
+[TITLE]
+[X: 2][Y: 1]
+[W: 18][H: 04]
+[C: 09]
+[MESSAGE]
+[X: 1][Y: 5]
+[W: 1a][H: 05]
+[MSG SPD]:[03]
+@To grant Katua's
+request, Mars mounted
+an attack on Diel
+fortress to rescue
+Maria.>
+[NEXT]
+@But they heard the
+approach of the
+Grunian army ahead.>
+[NEXT]
+@Go Mars!
+Quickly rescue Maria
+and take over the
+castle!>
+[END]
+
+
+{14}
+[TITLE]
+[X: 3][Y: 1]
+[W: 14][H: 04]
+[C: 0a]
+[MESSAGE]
+[X: 1][Y: 5]
+[W: 1a][H: 05]
+[MSG SPD]:[03]
+@After a long battle,
+Mars and company
+finally arrive in
+Nyna's homeland,
+Akaneia.>
+[NEXT]
+@The proud capital of
+1000 years' history,
+Pales, lies beyond
+these mountains.>
+[NEXT]
+@Robbed of its
+valuable treasures_
+Many imprisoned
+soldiers within_>
+[NEXT]
+@Mars's long journey
+had finally reached one
+of its fateful
+destinations_>
+[END]
+
+
+{15}
+[TITLE]
+[X: 3][Y: 1]
+[W: 14][H: 04]
+[C: 0b]
+[MESSAGE]
+[X: 1][Y: 7]
+[W: 1a][H: 05]
+[PORTRAIT]
+[X: 3][Y: 3]
+[W: 06][H: 06]
+[C: 1b]
+[MSG SPD]:[03]
+@Boah, what is the
+commotion in the halls?>
+[GOTO]:[80->2c]
+
+{16}
+[TITLE]
+[X: 3][Y: 1]
+[W: 14][H: 04]
+[C: 0c]
+[MESSAGE]
+[X: 1][Y: 5]
+[W: 1a][H: 05]
+[MSG SPD]:[03]
+@As Mars and company
+hurried to Aritia,
+suddenly they were
+blocked by Grunia's
+artillery troops.>
+[NEXT]
+@This fearsome
+mechanical force is
+known as the
+<Wooden Cavalry>.>
+[NEXT]
+@With ominous clinking
+and clanking,
+these huge metal boxes
+began to move.>
+[NEXT]
+@Can Mars defeat these
+juggernauts on the
+road to victory?>
+[END]
+
+
+{17}
+[TITLE]
+[X: 2][Y: 1]
+[W: 1a][H: 04]
+[C: 0d]
+[MESSAGE]
+[X: 1][Y: 5]
+[W: 1a][H: 05]
+[MSG SPD]:[03]
+@Gra has long been
+an ally of Aritia.
+In the battle with
+Grunia, suddenly they
+sided with the enemy.>
+[NEXT]
+@In an ambush from
+behind, the Aritian army
+was annihilated.>
+[NEXT]
+@Aritia's king Cornelius,
+and the Falchion,
+disappeared.>
+[NEXT]
+@@It has been 2 years
+since that tragic day_>
+[NEXT]
+@Now, finally Mars
+reaches Gra castle,
+protected by the man
+who drove his father to
+death, Jiol.>
+[END]
+
+
+{18}
+[TITLE]
+[X: 3][Y: 1]
+[W: 16][H: 04]
+[C: 0e]
+[MESSAGE]
+[X: 1][Y: 5]
+[W: 1a][H: 05]
+[MSG SPD]:[03]
+@Khadein, ruled by the
+Dark Pontifex Gharnef,
+is a country of mages.>
+[NEXT]
+@Once they begin
+chanting, no warrior
+can defend himself.>
+[NEXT]
+@One_ and another_
+Brave warriors come
+and fall_
+Khadein_ a cursed
+land of darkness_>
+[END]
+
+
+{19}
+[TITLE]
+[X: 2][Y: 1]
+[W: 18][H: 04]
+[C: 0f]
+[MESSAGE]
+[X: 1][Y: 7]
+[W: 1a][H: 05]
+[PORTRAIT]
+[X: 9][Y: 3]
+[W: 06][H: 06]
+[C: 20]
+[MSG SPD]:[03]
+@Mars, so this is your
+homeland, Aritia?>
+[GOTO]:[80->26]
+
+{1a}
+[TITLE]
+[X: 3][Y: 1]
+[W: 14][H: 04]
+[C: 10]
+[MESSAGE]
+[X: 1][Y: 7]
+[W: 1a][H: 05]
+[PORTRAIT]
+[X: 9][Y: 3]
+[W: 06][H: 06]
+[C: 24]
+[MSG SPD]:[03]
+@Hahaha_ Mars.
+So you've returned
+to die.>
+[NEXT]
+@I am Lord Mediuth's
+highest servant,
+Morzes the Basilisk.>
+[NEXT]
+@But your return is
+too late.>
+[NEXT]
+@Your mother, Liza,
+already died by my
+hands. And your
+sister, Elice
+is with Gharnef.>
+[NEXT]
+@Hahaha_ Despair,
+for you cannot
+defeat me.>
+[END]
+
+
+{1b}
+[TITLE]
+[X: 2][Y: 1]
+[W: 18][H: 04]
+[C: 11]
+[MESSAGE]
+[X: 1][Y: 5]
+[W: 1a][H: 05]
+[MSG SPD]:[03]
+@To find the orbs
+that Gatoh requests,
+Mars and company must
+visit Raman temple in
+Cashmere.>
+[NEXT]
+@But on the road was
+Grunia's battalion of
+black knights,
+the Sable Order.>
+[NEXT]
+@Around the one bridge
+to Cashmere,
+a fierce battle would
+begin.>
+[END]
+
+
+{1c}
+[TITLE]
+[X: 2][Y: 1]
+[W: 18][H: 04]
+[C: 12]
+[MESSAGE]
+[X: 1][Y: 7]
+[W: 1a][H: 05]
+[PORTRAIT]
+[X: 9][Y: 3]
+[W: 06][H: 06]
+[C: 17]
+[MSG SPD]:[03]
+@Chiki_
+Princess of the once
+mighty Narga clan_>
+[NEXT]
+@Use your power to
+burn the intruders of
+this holy Raman temple.>
+[NEXT]
+@Forget not that when
+you became lost from 
+your Grandpa Banutu,
+it was I who saved you 
+from Mediuth's grip.>
+[END]
+
+
+{1d}
+[TITLE]
+[X: 2][Y: 1]
+[W: 18][H: 04]
+[C: 13]
+[MESSAGE]
+[X: 1][Y: 7]
+[W: 1a][H: 05]
+[PORTRAIT]
+[X: 9][Y: 3]
+[W: 06][H: 06]
+[C: 0b]
+[MSG SPD]:[03]
+@General Camus, if
+possible, please fight
+with us. This senseless
+battle must end.>
+[NEXT]
+@Princess Nyna also
+wants to see you.
+Please forget the past,
+lower your weapon.>
+[GOTO]:[80->1e]
+
+{1e}
+[PORTRAIT]
+[X: 3][Y: 3]
+[W: 06][H: 06]
+[C: 1f]
+
+@Prince Mars_
+It's already too late_
+My homeland, Grunia
+wants to help Durhua
+achieve its ambitions.>
+[NEXT]
+@For the glory of
+Grunia's Sable Order,
+I must fight to the 
+end.>
+[NEXT]
+@I was your father's
+rival_
+Shall we not honorably
+end this here?>
+[GOTO]:[80->1f]
+
+{1f}
+[PORTRAIT]
+[X: 9][Y: 3]
+[W: 06][H: 06]
+[C: 20]
+
+@Wait, Camus_ please!
+I don't want to see
+you fight Mars.>
+[NEXT]
+@Somehow, please!
+Help us_
+No, help me!>
+[GOTO]:[80->20]
+
+{20}
+@I'm sorry, Nyna.>
+[NEXT]
+But I can't betray my
+country, right as it
+nears ruin.>
+[NEXT]
+@Our days together
+were short but happy.
+_Farewell.
+May you find
+happiness.>
+[END]
+
+
+{21}
+[TITLE]
+[X: 2][Y: 1]
+[W: 18][H: 04]
+[C: 14]
+[MESSAGE]
+[X: 2][Y: 7]
+[W: 16][H: 05]
+[MSG SPD]:[04]
+@Grunia defeated, the
+allies crossed the
+Macedonian kingdom's
+borders.>
+[NEXT]
+@But there they met
+the proud Macedonian
+Wyvern Knights.>
+[NEXT]
+@Countless
+reinforcements lie
+prepared in the
+forts.>
+[NEXT]
+@Mars and company
+must pass through
+the enemy_>
+[END]
+
+
+{22}
+[TITLE]
+[X: 3][Y: 1]
+[W: 16][H: 04]
+[C: 15]
+[MESSAGE]
+[X: 1][Y: 5]
+[W: 1a][H: 05]
+[MSG SPD]:[04]
+@Minerva's homeland,
+Macedonia, is a
+peaceful, rich kingdom
+of flying dragons.>
+[NEXT]
+@But the ambitious
+Misheil opposed his
+sisters and supported
+Durhua.>
+[NEXT]
+@He led Macedonia's
+Wyvern Knights to
+attack many lands and
+instill fear in the
+people.>
+[NEXT]
+@Now he has gathered
+his soaring army to
+fight a final battle
+with Mars_>
+[END]
+
+
+{23}
+[TITLE]
+[X: 2][Y: 1]
+[W: 18][H: 04]
+[C: 16]
+[MESSAGE]
+[X: 1][Y: 7]
+[W: 1a][H: 05]
+[PORTRAIT]
+[X: 3][Y: 3]
+[W: 06][H: 06]
+[C: 17]
+[MSG SPD]:[03]
+@So Mars.
+You've finally come.
+I, Dark Pontifex
+Gharnef, have been
+waiting a long time.>
+[NEXT]
+@A pity that, to
+secure my grasp
+on this world, you
+must die.>
+[NEXT]
+@Hahaha_ As I control
+Mediuth, there's nothing
+to fear.>
+[NEXT]
+@As long as I have
+the Falchion and Maph,
+even he cannot oppose
+me_>
+[NEXT]
+@Well, Mars. You
+must do battle with
+my images!>
+[NEXT]
+@The Falchion will be
+yours if only you can
+defeat the real me!>
+[END]
+
+
+{24}
+[TITLE]
+[X: 3][Y: 1]
+[W: 16][H: 04]
+[C: 17]
+[MESSAGE]
+[X: 1][Y: 5]
+[W: 1a][H: 05]
+[MSG SPD]:[03]
+@Durhua_
+The Mamkute kingdom 
+of mysteries_>
+[NEXT]
+@All began with the
+revival of the Earth
+Dragon Mediuth here.>
+[NEXT]
+@Akaneia has been
+ruined from endless
+warring.
+Many tragic tales
+born and destroyed.>
+[NEXT]
+@But time flows fast.
+Mediuth's ambitions of
+Mamkutes ruling the
+world must finally end.>
+[NEXT]
+@Just as Mars's long
+journey is ending.>
+[END]
+
+
+{25}
+[TITLE]
+[X: 3][Y: 1]
+[W: 16][H: 04]
+[C: 18]
+[MESSAGE]
+[X: 2][Y: 7]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 3]
+[W: 06][H: 06]
+[C: 23]
+[MSG SPD]:[03]
+@Mars Lowell.
+You've finally made
+it. I call you a
+true hero.>
+[GOTO]:[80->2a]
+
+{26}
+[PORTRAIT]
+[X: 3][Y: 3]
+[W: 06][H: 06]
+[C: 07]
+
+@Yes.
+It's been 2 years
+since it was occupied
+by Durhua.>
+[NEXT]
+@That day_
+I was able to escape
+to Talis, thanks to
+my sister Elice.>
+[NEXT]
+@She was captured
+by Durhua in my stead.
+Where on earth
+could she be right now?>
+[NEXT]
+@_I must rescue her
+from their hands.>
+[NEXT]
+@Okay, everyone.
+Move out!
+For the freedom and
+peace of our homeland,
+Aritia!>
+[END]
+
+
+{27}
+
+[END]
+
+
+{28}
+
+[END]
+
+
+{29}
+
+[GOTO]:[80->1e]
+
+{2a}
+[PORTRAIT]
+[X: 9][Y: 3]
+[W: 06][H: 06]
+[C: 0b]
+
+@Oh, Gatoh!
+Why are you here?!>
+[GOTO]:[80->2b]
+
+{2b}
+@In the past,
+I thought humans to be
+a foolish lot, and
+cut off relations with
+them.>
+[NEXT]
+@But after seeing
+you, I see humans are
+not a lost hope.>
+[NEXT]
+@I am no match for
+Mediuth, but this old
+man can handle his
+lackeys.>
+[NEXT]
+@Go forth,
+chosen ones!
+Aritia's prince
+of light!
+Send the Earth
+Dragon Mediuth back
+to the darkness once
+again!>
+[END]
+
+
+{2c}
+[PORTRAIT]
+[X: 9][Y: 3]
+[W: 06][H: 06]
+[C: 2d]
+
+@Hmm. Perhaps the
+liberation army Nyna
+organized has
+returned.>
+[GOTO]:[80->2d]
+
+{2d}
+@Huh, is that true?
+Then perhaps we
+are saved!>
+[GOTO]:[80->2e]
+
+{2e}
+@But Midia, we can't
+get complacent now.
+If this continues, the
+enemy will decide to
+finish us off.>
+[NEXT]
+@Without weapons, there's
+nothing we can do.>
+[GOTO]:[80->2f]
+
+{2f}
+@But Boah, we can
+finally drive the enemy
+out of Akaneia.>
+[NEXT]
+@Even if I fall here,
+I shall have no
+regrets.>
+[GOTO]:[80->30]
+
+{30}
+@Haha_ your spirit
+is as strong as ever.
+But if you die,
+Astria will mourn.>
+[GOTO]:[80->31]
+
+{31}
+@_yes_
+I just want to
+see him one last time.
+That is my final
+wish.>
+[GOTO]:[80->32]
+
+{32}
+@Well then, Midia.
+To fulfill that wish,
+you must endure to
+the end. Never lose
+hope.>
+[END]
+
+
+

@@ -1,0 +1,242 @@
+{01}
+ STR: 5
+ SKL: 2
+ WLV: 8
+ SPD: 6
+ LCK: 0
+ DEF: 7
+ MOV: 9
+ MHP: 16
+ EXP: 30
+
+{02}
+ STR: 5
+ SKL: 1
+ WLV: 7
+ SPD: 3
+ LCK: 0
+ DEF: 11
+ MOV: 5
+ MHP: 16
+ EXP: 32
+
+{03}
+ STR: 4
+ SKL: 5
+ WLV: 9
+ SPD: 11
+ LCK: 0
+ DEF: 6
+ MOV: 8
+ MHP: 16
+ EXP: 36
+
+{04}
+ STR: 8
+ SKL: 7
+ WLV: 10
+ SPD: 11
+ LCK: 0
+ DEF: 9
+ MOV: 10
+ MHP: 22
+ EXP: 44
+
+{05}
+ STR: 9
+ SKL: 3
+ WLV: 10
+ SPD: 6
+ LCK: 0
+ DEF: 14
+ MOV: 10
+ MHP: 22
+ EXP: 44
+
+{06}
+ STR: 4
+ SKL: 8
+ WLV: 8
+ SPD: 10
+ LCK: 0
+ DEF: 5
+ MOV: 7
+ MHP: 16
+ EXP: 28
+
+{07}
+ STR: 5
+ SKL: 1
+ WLV: 4
+ SPD: 7
+ LCK: 0
+ DEF: 4
+ MOV: 6
+ MHP: 18
+ EXP: 24
+
+{08}
+ STR: 5
+ SKL: 1
+ WLV: 5
+ SPD: 6
+ LCK: 0
+ DEF: 4
+ MOV: 6
+ MHP: 18
+ EXP: 24
+
+{09}
+ STR: 3
+ SKL: 1
+ WLV: 2
+ SPD: 9
+ LCK: 0
+ DEF: 2
+ MOV: 7
+ MHP: 16
+ EXP: 40
+
+{0a}
+ STR: 8
+ SKL: 14
+ WLV: 10
+ SPD: 14
+ LCK: 0
+ DEF: 8
+ MOV: 7
+ MHP: 24
+ EXP: 46
+
+{0b}
+ STR: 4
+ SKL: 1
+ WLV: 9
+ SPD: 4
+ LCK: 0
+ DEF: 5
+ MOV: 5
+ MHP: 16
+ EXP: 28
+
+{0c}
+ STR: 6
+ SKL: 1
+ WLV: 5
+ SPD: 5
+ LCK: 0
+ DEF: 3
+ MOV: 6
+ MHP: 18
+ EXP: 26
+
+{0d}
+ STR: 5
+ SKL: 1
+ WLV: 8
+ SPD: 3
+ LCK: 0
+ DEF: 14
+ MOV: 4
+ MHP: 20
+ EXP: 38
+
+{0e}
+ STR: 4
+ SKL: 1
+ WLV: 3
+ SPD: 7
+ LCK: 0
+ DEF: 4
+ MOV: 9
+ MHP: 16
+ EXP: 30
+
+{0f}
+ STR: 7
+ SKL: 10
+ WLV: 10
+ SPD: 14
+ LCK: 0
+ DEF: 7
+ MOV: 7
+ MHP: 24
+ EXP: 42
+
+{10}
+ STR: 1
+ SKL: 1
+ WLV: 2
+ SPD: 10
+ LCK: 0
+ DEF: 4
+ MOV: 6
+ MHP: 16
+ EXP: 40
+
+{11}
+ STR: 1
+ SKL: 1
+ WLV: 7
+ SPD: 1
+ LCK: 0
+ DEF: 3
+ MOV: 6
+ MHP: 18
+ EXP: 42
+
+{12}
+ STR: 1
+ SKL: 1
+ WLV: 7
+ SPD: 5
+ LCK: 0
+ DEF: 3
+ MOV: 6
+ MHP: 16
+ EXP: 32
+
+{13}
+ STR: 1
+ SKL: 1
+ WLV: 7
+ SPD: 1
+ LCK: 0
+ DEF: 3
+ MOV: 5
+ MHP: 16
+ EXP: 30
+
+{14}
+ STR: 3
+ SKL: 1
+ WLV: 10
+ SPD: 14
+ LCK: 0
+ DEF: 8
+ MOV: 6
+ MHP: 22
+ EXP: 44
+
+{15}
+ STR: 5
+ SKL: 3
+ WLV: 5
+ SPD: 7
+ LCK: 7
+ DEF: 7
+ MOV: 7
+ MHP: 18
+ EXP: 0
+
+{16}
+ STR: 9
+ SKL: 1
+ WLV: 13
+ SPD: 4
+ LCK: 0
+ DEF: 14
+ MOV: 5
+ MHP: 28
+ EXP: 50
+

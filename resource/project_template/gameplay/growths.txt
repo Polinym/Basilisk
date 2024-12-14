@@ -1,0 +1,530 @@
+{01}
+ STR: 05
+ SKL: 04
+ WLV: 03
+ SPD: 05
+ LCK: 07
+ DEF: 02
+ MHP: 09
+ RES: 00
+
+{02}
+ STR: 02
+ SKL: 07
+ WLV: 08
+ SPD: 09
+ LCK: 07
+ DEF: 02
+ MHP: 05
+ RES: 00
+
+{03}
+ STR: 01
+ SKL: 01
+ WLV: 00
+ SPD: 01
+ LCK: 00
+ DEF: 00
+ MHP: 01
+ RES: 00
+
+{04}
+ STR: 03
+ SKL: 06
+ WLV: 06
+ SPD: 06
+ LCK: 05
+ DEF: 02
+ MHP: 09
+ RES: 00
+
+{05}
+ STR: 04
+ SKL: 05
+ WLV: 07
+ SPD: 05
+ LCK: 04
+ DEF: 02
+ MHP: 07
+ RES: 00
+
+{06}
+ STR: 02
+ SKL: 04
+ WLV: 02
+ SPD: 04
+ LCK: 02
+ DEF: 01
+ MHP: 06
+ RES: 00
+
+{07}
+ STR: 03
+ SKL: 03
+ WLV: 05
+ SPD: 03
+ LCK: 04
+ DEF: 01
+ MHP: 04
+ RES: 00
+
+{08}
+ STR: 05
+ SKL: 02
+ WLV: 00
+ SPD: 06
+ LCK: 04
+ DEF: 02
+ MHP: 05
+ RES: 00
+
+{09}
+ STR: 00
+ SKL: 00
+ WLV: 02
+ SPD: 01
+ LCK: 01
+ DEF: 00
+ MHP: 02
+ RES: 00
+
+{0a}
+ STR: 05
+ SKL: 05
+ WLV: 02
+ SPD: 01
+ LCK: 03
+ DEF: 05
+ MHP: 09
+ RES: 00
+
+{0b}
+ STR: 03
+ SKL: 02
+ WLV: 05
+ SPD: 04
+ LCK: 04
+ DEF: 04
+ MHP: 0a
+ RES: 00
+
+{0c}
+ STR: 05
+ SKL: 05
+ WLV: 03
+ SPD: 05
+ LCK: 07
+ DEF: 05
+ MHP: 06
+ RES: 00
+
+{0d}
+ STR: 06
+ SKL: 04
+ WLV: 02
+ SPD: 04
+ LCK: 02
+ DEF: 02
+ MHP: 07
+ RES: 00
+
+{0e}
+ STR: 04
+ SKL: 02
+ WLV: 07
+ SPD: 03
+ LCK: 04
+ DEF: 02
+ MHP: 08
+ RES: 00
+
+{0f}
+ STR: 05
+ SKL: 00
+ WLV: 02
+ SPD: 01
+ LCK: 01
+ DEF: 04
+ MHP: 09
+ RES: 00
+
+{10}
+ STR: 07
+ SKL: 05
+ WLV: 00
+ SPD: 05
+ LCK: 08
+ DEF: 03
+ MHP: 08
+ RES: 00
+
+{11}
+ STR: 00
+ SKL: 00
+ WLV: 03
+ SPD: 02
+ LCK: 04
+ DEF: 00
+ MHP: 00
+ RES: 00
+
+{12}
+ STR: 00
+ SKL: 03
+ WLV: 08
+ SPD: 05
+ LCK: 05
+ DEF: 02
+ MHP: 08
+ RES: 00
+
+{13}
+ STR: 05
+ SKL: 04
+ WLV: 03
+ SPD: 05
+ LCK: 04
+ DEF: 01
+ MHP: 09
+ RES: 00
+
+{14}
+ STR: 03
+ SKL: 05
+ WLV: 07
+ SPD: 06
+ LCK: 03
+ DEF: 02
+ MHP: 05
+ RES: 00
+
+{15}
+ STR: 05
+ SKL: 01
+ WLV: 06
+ SPD: 02
+ LCK: 07
+ DEF: 02
+ MHP: 07
+ RES: 00
+
+{16}
+ STR: 03
+ SKL: 02
+ WLV: 03
+ SPD: 01
+ LCK: 01
+ DEF: 02
+ MHP: 09
+ RES: 00
+
+{17}
+ STR: 04
+ SKL: 05
+ WLV: 03
+ SPD: 01
+ LCK: 01
+ DEF: 01
+ MHP: 08
+ RES: 00
+
+{18}
+ STR: 03
+ SKL: 01
+ WLV: 07
+ SPD: 02
+ LCK: 01
+ DEF: 01
+ MHP: 05
+ RES: 00
+
+{19}
+ STR: 00
+ SKL: 01
+ WLV: 00
+ SPD: 00
+ LCK: 01
+ DEF: 00
+ MHP: 01
+ RES: 00
+
+{1a}
+ STR: 03
+ SKL: 03
+ WLV: 03
+ SPD: 02
+ LCK: 01
+ DEF: 02
+ MHP: 08
+ RES: 00
+
+{1b}
+ STR: 05
+ SKL: 04
+ WLV: 05
+ SPD: 07
+ LCK: 04
+ DEF: 01
+ MHP: 09
+ RES: 00
+
+{1c}
+ STR: 03
+ SKL: 05
+ WLV: 05
+ SPD: 05
+ LCK: 01
+ DEF: 02
+ MHP: 08
+ RES: 00
+
+{1d}
+ STR: 04
+ SKL: 08
+ WLV: 07
+ SPD: 08
+ LCK: 04
+ DEF: 03
+ MHP: 07
+ RES: 00
+
+{1e}
+ STR: 00
+ SKL: 00
+ WLV: 07
+ SPD: 02
+ LCK: 03
+ DEF: 00
+ MHP: 00
+ RES: 00
+
+{1f}
+ STR: 03
+ SKL: 05
+ WLV: 07
+ SPD: 04
+ LCK: 04
+ DEF: 02
+ MHP: 04
+ RES: 00
+
+{20}
+ STR: 00
+ SKL: 07
+ WLV: 07
+ SPD: 06
+ LCK: 08
+ DEF: 02
+ MHP: 07
+ RES: 00
+
+{21}
+ STR: 02
+ SKL: 01
+ WLV: 05
+ SPD: 02
+ LCK: 01
+ DEF: 01
+ MHP: 06
+ RES: 00
+
+{22}
+ STR: 03
+ SKL: 04
+ WLV: 07
+ SPD: 03
+ LCK: 01
+ DEF: 02
+ MHP: 07
+ RES: 00
+
+{23}
+ STR: 03
+ SKL: 01
+ WLV: 04
+ SPD: 02
+ LCK: 01
+ DEF: 01
+ MHP: 05
+ RES: 00
+
+{24}
+ STR: 02
+ SKL: 02
+ WLV: 05
+ SPD: 03
+ LCK: 01
+ DEF: 01
+ MHP: 05
+ RES: 00
+
+{25}
+ STR: 00
+ SKL: 01
+ WLV: 00
+ SPD: 02
+ LCK: 01
+ DEF: 01
+ MHP: 01
+ RES: 00
+
+{26}
+ STR: 05
+ SKL: 03
+ WLV: 05
+ SPD: 04
+ LCK: 04
+ DEF: 01
+ MHP: 05
+ RES: 00
+
+{27}
+ STR: 03
+ SKL: 01
+ WLV: 07
+ SPD: 02
+ LCK: 05
+ DEF: 02
+ MHP: 07
+ RES: 00
+
+{28}
+ STR: 02
+ SKL: 04
+ WLV: 07
+ SPD: 05
+ LCK: 03
+ DEF: 00
+ MHP: 01
+ RES: 00
+
+{29}
+ STR: 03
+ SKL: 01
+ WLV: 00
+ SPD: 02
+ LCK: 02
+ DEF: 02
+ MHP: 05
+ RES: 00
+
+{2a}
+ STR: 01
+ SKL: 03
+ WLV: 07
+ SPD: 02
+ LCK: 04
+ DEF: 01
+ MHP: 06
+ RES: 00
+
+{2b}
+ STR: 07
+ SKL: 07
+ WLV: 07
+ SPD: 07
+ LCK: 06
+ DEF: 02
+ MHP: 05
+ RES: 00
+
+{2c}
+ STR: 05
+ SKL: 04
+ WLV: 04
+ SPD: 02
+ LCK: 05
+ DEF: 01
+ MHP: 09
+ RES: 00
+
+{2d}
+ STR: 04
+ SKL: 03
+ WLV: 07
+ SPD: 02
+ LCK: 02
+ DEF: 02
+ MHP: 05
+ RES: 00
+
+{2e}
+ STR: 05
+ SKL: 01
+ WLV: 04
+ SPD: 02
+ LCK: 08
+ DEF: 01
+ MHP: 07
+ RES: 00
+
+{2f}
+ STR: 03
+ SKL: 05
+ WLV: 05
+ SPD: 02
+ LCK: 05
+ DEF: 01
+ MHP: 05
+ RES: 00
+
+{30}
+ STR: 05
+ SKL: 08
+ WLV: 03
+ SPD: 02
+ LCK: 01
+ DEF: 03
+ MHP: 07
+ RES: 00
+
+{31}
+ STR: 05
+ SKL: 09
+ WLV: 07
+ SPD: 09
+ LCK: 09
+ DEF: 00
+ MHP: 08
+ RES: 00
+
+{32}
+ STR: 05
+ SKL: 07
+ WLV: 05
+ SPD: 02
+ LCK: 05
+ DEF: 02
+ MHP: 07
+ RES: 00
+
+{33}
+ STR: 00
+ SKL: 05
+ WLV: 09
+ SPD: 06
+ LCK: 08
+ DEF: 03
+ MHP: 08
+ RES: 00
+
+{34}
+ STR: 00
+ SKL: 05
+ WLV: 09
+ SPD: 06
+ LCK: 08
+ DEF: 03
+ MHP: 08
+ RES: 00
+
+{35}
+ STR: 00
+ SKL: 05
+ WLV: 09
+ SPD: 06
+ LCK: 08
+ DEF: 03
+ MHP: 08
+ RES: 00
+

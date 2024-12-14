@@ -1,0 +1,1417 @@
+{00}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 2]
+[W: 06][H: 06]
+[C: 19]
+[MSG SPD]:[03]
+@Prince Mars, I'm 
+Darros, a man of
+the sea.>
+[NEXT]
+@I want to wash my
+hands of this
+pirate life.>
+[NEXT]
+@I'll work hard to
+change my ways.
+Please let me join
+you.>
+[END]
+
+
+{01}
+[X: 2][Y: 7]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 3]
+[W: 06][H: 06]
+[C: 2c]
+[MSG SPD]:[03]
+@Ah, you're Prince
+Mars, aren't you?
+(Wow, he's so
+handsome!)
+Thank you for
+rescuing me.>
+[NEXT]
+@Please tell my
+sister that you've
+rescued me. She'll be
+pleased.>
+[NEXT]
+@Also_
+I'd like to aid
+you, Lord Mars, by
+your side. Alright?>
+[END]
+
+
+{02}
+[X: 2][Y: 7]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 3]
+[W: 06][H: 06]
+[C: 0e]
+[MSG SPD]:[03]
+@Greetings, Prince
+Mars. I am Minerva
+of Macedonia.
+Thank you for
+rescuing Maria.>
+[NEXT]
+@We were on opposing
+sides in the past,
+but we no longer
+need be enemies.>
+[NEXT]
+@My elder brother
+Misheil has given
+Durhua much support.>
+[NEXT]
+@But he was the
+cause of my father's
+death.
+If I can, I want to
+defeat him by my own
+hand.>
+[NEXT]
+@Also, I wish for
+you to help my three
+skilled subordinates,
+Paola, Katua, and Est.>
+[NEXT]
+@Durhua feared that
+they would rebel, so
+they were separated
+from me.>
+[NEXT]
+@But if they knew
+I was still alive,
+they would come back
+for me.>
+[NEXT]
+@Macedonia suffers
+under Durhua's rule_
+Please let us
+fight alongside your
+highness.>
+[END]
+
+
+{03}
+[X: 2][Y: 7]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 3]
+[W: 06][H: 06]
+[C: 11]
+[MSG SPD]:[03]
+@Prince Mars, it's
+been awhile.
+I'm Katua.>
+[NEXT]
+@After Minerva finally
+became your ally,
+I've been waiting
+for you.>
+[NEXT]
+@I'll try and fight
+my hardest, too!>
+[END]
+
+
+{04}
+[X: 2][Y: 7]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 3]
+[W: 06][H: 06]
+[C: 10]
+[MSG SPD]:[03]
+@Nice to meet you,
+Prince Mars.
+I am Paola of the
+White Knights.>
+[NEXT]
+@After hearing that
+you rescued Maria, my
+sister Katua and I
+escaped from
+Macedonia.>
+[NEXT]
+@Following my promise
+to Katua, I'll also
+fight together with
+your highness.>
+[NEXT]
+@But our youngest
+sister, Est, hasn't
+been seen since she
+went to Grunia.>
+[NEXT]
+@Once she returns,
+we three can help
+you even more_>
+[END]
+
+
+{05}
+[X: 2][Y: 7]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 3]
+[W: 06][H: 06]
+[C: 16]
+[MSG SPD]:[03]
+@Huh?!
+You're Aritia's
+prince, right?
+Thanks a bunch
+for savin' me.>
+[NEXT]
+@The name's Rickard.
+I'm a petty thief.
+I came to this
+castle to steal, got
+found, and now I'm
+in this sorry state.>
+[NEXT]
+@Since you saved me,
+I'll lend you my
+skills!>
+[END]
+
+
+{06}
+@No, brother.
+You should have been
+brave and walked
+your own path.>
+[NEXT]
+@Macedonia is wrong for
+supporting Durhua and
+causing its people to
+suffer.>
+[NEXT]
+@It's not too late,
+brother! Join the
+allied army of Aritia!>
+[NEXT]
+@Everyone will receive
+you with open arms.>
+[NEXT]
+@They're good people.>
+[GOTO]:[71->4e]
+
+{07}
+[X: 2][Y: 7]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 9][Y: 3]
+[W: 06][H: 06]
+[C: 0f]
+[MSG SPD]:[03]
+@Ah, are you Prince
+Mars? I am Est of
+Macedonia!>
+[NEXT]
+@I was captured when I
+tried to recover the
+stolen Miracle Rapier
+from the Grunian army.>
+[NEXT]
+@But that young
+knight, Camus, rescued
+me and let me escape.>
+[NEXT]
+@This Miracle Rapier
+is impressive, no?
+But only you may wield
+it, it seems_>
+[END]
+
+
+{08}
+[X: 2][Y: 7]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 3]
+[W: 06][H: 06]
+[C: 32]
+[MSG SPD]:[03]
+@I can't put up with
+this fight anymore.
+Paola, Katua, Est,
+let's withdraw.>
+[END]
+
+
+{09}
+[X: 2][Y: 7]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 9][Y: 2]
+[W: 06][H: 06]
+[C: 17]
+[MSG SPD]:[06]
+@Mars_
+I'm afraid I don't
+have time to continue
+playing games with
+you.>
+[NEXT]
+@If you want this
+Falchion, then come
+to Thebes.>
+[END]
+
+
+{0a}
+[X: 2][Y: 7]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 3]
+[W: 06][H: 06]
+[C: 31]
+[MSG SPD]:[03]
+@Kashim? Aren't you
+Kashim of Talis?
+Why are you_?>
+[GOTO]:[71->37]
+
+{0b}
+[X: 1][Y: 7]
+[W: 1a][H: 05]
+[PORTRAIT]
+[X: 9][Y: 3]
+[W: 06][H: 06]
+[C: 09]
+[MSG SPD]:[03]
+@Swordfighter Navarre,
+why is a swordsman
+of your caliber a
+bodyguard for thieves?>
+[GOTO]:[71->3a]
+
+{0c}
+[X: 2][Y: 7]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 9][Y: 3]
+[W: 06][H: 06]
+[C: 0a]
+[MSG SPD]:[03]
+@Greetings.
+You are Grunia's
+ballistician, Jake,
+aren't you?>
+[GOTO]:[71->22]
+
+{0d}
+[X: 2][Y: 7]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 9][Y: 3]
+[W: 06][H: 06]
+[C: 09]
+[MSG SPD]:[03]
+@General Lawrence,
+I am Sheeda of Talis.
+I've heard much about
+you from my father.>
+[GOTO]:[71->28]
+
+{0e}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 06]
+[C: 2e]
+[MSG SPD]:[03]
+@Prince Mars,
+I am the sage of
+Khadein known as
+Wendell.>
+[NEXT]
+@Khadein, the capital
+of magic, is the
+hope of all people
+who love peace.>
+[NEXT]
+@But Gharnef will bring
+about its end.>
+[NEXT]
+@Now he leads the
+mages to perform evil
+deeds for Durhua.>
+[NEXT]
+@Prince Mars, I'll
+lend you my power
+to crush Gharnef's
+forces.>
+[END]
+
+
+{0f}
+[X: 2][Y: 7]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 3]
+[W: 06][H: 06]
+[C: 2a]
+[MSG SPD]:[03]
+@Hey, aren't you
+Rickard? What're you
+doin' here?>
+[GOTO]:[71->2d]
+
+{10}
+[X: 1][Y: 7]
+[W: 1a][H: 05]
+[PORTRAIT]
+[X: 9][Y: 3]
+[W: 06][H: 06]
+[C: 18]
+[MSG SPD]:[03]
+@Oh! Chiki, I've
+found you at last.
+Gharnef must have
+hypnotised you_
+Now, awaken_>
+[GOTO]:[71->32]
+
+{11}
+[X: 2][Y: 7]
+[W: 18][H: 04]
+[PORTRAIT]
+[X: 9][Y: 2]
+[W: 06][H: 06]
+[C: 24]
+[MSG SPD]:[05]
+@Fools!
+I'll teach you to
+fear Mamkutes!>
+[END]
+
+
+{12}
+[X: 2][Y: 7]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 2]
+[W: 06][H: 06]
+[C: 37]
+[MSG SPD]:[05]
+@Rebel soldiers who
+defy Durhua shall
+face the might of my
+elite destruction
+magic, Volganon!>
+[END]
+
+
+{13}
+[X: 2][Y: 7]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 3]
+[W: 06][H: 06]
+[C: 1f]
+[MSG SPD]:[05]
+@It's such a shame.
+As long as I have
+the Gradius, I will
+not fall.
+You guys are out of
+luck, give it up.>
+[END]
+
+
+{14}
+[X: 2][Y: 7]
+[W: 18][H: 04]
+[PORTRAIT]
+[X: 9][Y: 2]
+[W: 06][H: 06]
+[C: 24]
+[MSG SPD]:[05]
+@Humans that dare
+oppose a Basilisk
+shall be torched!>
+[END]
+
+
+{15}
+[X: 2][Y: 7]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 9][Y: 2]
+[W: 06][H: 06]
+[C: 17]
+[MSG SPD]:[05]
+@Those that dare to
+wield weapons
+against me will die.
+I'll show you the
+horrors of my sealing
+magic, Maph!>
+[END]
+
+
+{16}
+[X: 2][Y: 7]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 7][Y: 2]
+[W: 06][H: 06]
+[C: 30]
+[MSG SPD]:[05]
+@You rebels who've
+disturbed my slumber.
+Prepare to suffer a
+fiery death from the
+flames of the Inferno!>
+[END]
+
+
+{17}
+[X: 2][Y: 7]
+[W: 18][H: 04]
+[PORTRAIT]
+[X: 3][Y: 2]
+[W: 06][H: 06]
+[C: 4c]
+[MSG SPD]:[05]
+@Although it's a
+shame, you must die.
+Take this! Kill sword!>
+[END]
+
+
+{18}
+[X: 1][Y: 6]
+[W: 1a][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 06]
+[C: 0c]
+[MSG SPD]:[03]
+@Ah! Master Wendell!
+It's you!>
+[GOTO]:[71->19]
+
+{19}
+[PORTRAIT]
+[X: 9][Y: 1]
+[W: 06][H: 06]
+[C: 2e]
+
+@Oh! Is it Marich?
+You're looking well.
+It's good to see
+you safe.>
+[GOTO]:[71->1a]
+
+{1a}
+@Yes. I was able
+to finally meet up
+with Prince Mars of
+Aritia.>
+[NEXT]
+@Now I'm fighting with
+the liberation army
+against the Durhua
+Empire.>
+[NEXT]
+@But Master, why are
+you here_?>
+[GOTO]:[71->1b]
+
+{1b}
+@*Sigh*
+Khadein is finished.>
+[NEXT]
+@And now Khadein is
+ruled by the Dark
+Pontifex Gharnef.
+It's become a city
+of darkness.>
+[NEXT]
+@But I couldn't
+agree to do his
+evil deeds, so I
+escaped.>
+[GOTO]:[71->1c]
+
+{1c}
+@Then Master, please
+lend us your power.>
+[NEXT]
+@With Durhua supporting
+Gharnef, it will be very
+hard for us to
+take back Khadein.>
+[NEXT]
+@Prince Mars would be
+very pleased if a
+great bishop like
+yourself joined our
+cause!>
+[GOTO]:[71->1d]
+
+{1d}
+@Hmm_ that's true.
+Though I dislike
+fighting, I now have
+no choice.>
+[NEXT]
+@Very well, Marich.
+If Prince Mars would
+like, I will join you
+in your fight.>
+[END]
+
+
+{1e}
+
+[END]
+
+
+{1f}
+
+[END]
+
+
+{20}
+
+[END]
+
+
+{21}
+
+[END]
+
+
+{22}
+[PORTRAIT]
+[X: 3][Y: 3]
+[W: 06][H: 06]
+[C: 14]
+
+@!
+Who're you?!
+What's a girl like
+you doing here?
+It's dangerous!>
+[GOTO]:[71->24]
+
+{23}
+
+[END]
+
+
+{24}
+@I came here because
+I heard there was a
+kind soldier in this
+country.>
+[NEXT]
+@Do you know Anna?>
+[GOTO]:[71->25]
+
+{25}
+@Ah, my Anna?
+Oh joy!>
+[GOTO]:[71->26]
+
+{26}
+@She says that if you
+fight for your
+country's people,
+she'll stay with you.>
+[GOTO]:[71->27]
+
+{27}
+@Really? Truth is,
+I can't stand doing
+horrible things to
+other countries.>
+[NEXT]
+I understand. 
+For your sake and 
+Anna's, I'll give my
+best to your cause
+instead!>
+[END]
+
+
+{28}
+[PORTRAIT]
+[X: 3][Y: 3]
+[W: 06][H: 06]
+[C: 12]
+
+@Ah, Princess Sheeda?
+You're grown to
+be so beautiful_
+I really must thank
+your father, for his
+care in the past.>
+[GOTO]:[71->29]
+
+{29}
+@General, you're
+opposed to Grunia
+allying with Durhua,
+are you not?>
+[NEXT]
+@Why didn't you stop
+them?>
+[GOTO]:[71->2a]
+
+{2a}
+@The current king of
+Grunia is a weak and
+cowardly man.
+He fears Durhua's
+strength.>
+[GOTO]:[71->2b]
+
+{2b}
+@General, Durhua wishes
+to see Mamkutes
+conquer humans!>
+[NEXT]
+@For Grunia, and for
+the innocent people
+of the world,
+we have stop Durhua's
+ambitions!>
+[NEXT]
+@Please, stop fighting
+and help us!>
+[GOTO]:[71->2c]
+
+{2c}
+@Well_ I was
+ordered by my king to
+fight, but times have
+changed.>
+[NEXT]
+@Very well.
+Even though betraying
+my country is wrong,
+I will join your
+cause.>
+[END]
+
+
+{2d}
+[PORTRAIT]
+[X: 9][Y: 3]
+[W: 06][H: 06]
+[C: 16]
+
+@Ah, Chief!
+Long time no see!>
+[NEXT]
+@Heh, it's a bit
+embarrassing. I came
+to the castle to
+steal, but I slipped
+up and got myself
+caught.>
+[NEXT]
+@But, why are YOU
+here, Chief?>
+[GOTO]:[71->2e]
+
+{2e}
+@I_
+I'm tired of
+thievery. Now, I'm an
+ally of justice.>
+[GOTO]:[71->2f]
+
+{2f}
+@Oh?
+*Tsk tsk*
+You're probably being
+decieved by some
+woman!>
+You've always been
+intimidated by pretty
+women, Chief.>
+[GOTO]:[71->30]
+
+{30}
+@Y-you idiot!
+My, uh, sense of
+justice was awakened,
+that's all_>
+[NEXT]
+@_anyway, that doesn't
+matter. From now on,
+you're coming with me.>
+[GOTO]:[71->31]
+
+{31}
+@*Pfft* You're always
+so selfish_>
+[NEXT]
+@Okay_
+One, I have time.
+And two, since my
+Chief asked me_>
+[NEXT]
+@Alright.
+I'll help you out.
+But you're gonna pay
+me back, okay?>
+[END]
+
+
+{32}
+[PORTRAIT]
+[X: 3][Y: 3]
+[W: 06][H: 06]
+[C: 29]
+
+@_mmm_ Ah_!
+Grampa_
+Why_ what happened?>
+[GOTO]:[71->33]
+
+{33}
+@Ah, good.
+You've awakened.
+Are you alright?>
+[GOTO]:[71->34]
+
+{34}
+@Yes_
+I, something_
+_it was scary_
+Like a bad dream_>
+[GOTO]:[71->35]
+
+{35}
+@My apologies_
+I failed to protect>
+you_
+[NEXT]
+@But everything is
+fine now. From now on,
+I'll always be by
+your side.>
+[GOTO]:[71->36]
+
+{36}
+@Oh, do you promise,
+Grampa? I don't ever
+want to be alone 
+again_>
+[END]
+
+
+{37}
+[PORTRAIT]
+[X: 9][Y: 3]
+[W: 06][H: 06]
+[C: 1d]
+
+@Ah_ Princess Sheeda,
+I'm sorry. My
+mother is ill. I
+need money to buy
+her medicine_>
+[GOTO]:[71->38]
+
+{38}
+@So you would join
+the pirates?
+I understand. I
+have a little gold
+here.>
+[NEXT]
+@Take it to buy
+medicine for your
+mother.>
+[GOTO]:[71->39]
+
+{39}
+@_!
+You'd be kind even
+to a traitor who
+betrayed the country_?>
+[NEXT]
+@Princess Sheeda,
+forgive me!
+I'll give my life
+to your cause!>
+[END]
+
+
+{3a}
+[PORTRAIT]
+[X: 3][Y: 3]
+[W: 06][H: 06]
+[C: 4c]
+
+@_?!
+I have no business
+with women or
+children. Get out of
+here!>
+[GOTO]:[71->3c]
+
+{3b}
+@_
+I won't point my
+blade at women.>
+[NEXT]
+@You risked your life
+to request me,
+so I have no choice.
+I'll lend you my
+strength.>
+[END]
+
+
+{3c}
+@Please stop this
+senseless fight.
+Somehow, you must
+lend us your strength!>
+[NEXT]
+@If you're unwilling,
+you may cut me down
+right now.>
+[GOTO]:[71->3b]
+
+{3d}
+[X: 2][Y: 7]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 3]
+[W: 06][H: 06]
+[C: 4b]
+[MSG SPD]:[03]
+@Hey, Prince Mars!
+Thanks for helping
+me out.>
+[NEXT]
+@I'm Chainey, and I
+come from a far-away
+country.>
+[NEXT]
+@People like me have
+the power to morph
+into anyone!
+[NEXT]
+@For that reason,
+Durhua tried to
+force me to join them.
+[NEXT]
+@But I won't use
+my power for evil!
+[NEXT]
+@I'd be happy to
+cooperate with you
+guys and use my
+power for good.
+[END]
+
+
+{3e}
+[X: 2][Y: 7]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 3]
+[W: 06][H: 06]
+[C: 29]
+[MSG SPD]:[05]
+@_Do_ don't_
+_don't_ come_
+_near me_>
+[END]
+
+
+{3f}
+[X: 2][Y: 7]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 7][Y: 2]
+[W: 06][H: 06]
+[C: 1c]
+[MSG SPD]:[05]
+@Come at me, brat!
+I'll show the power
+of our strongest
+tank, <Elephant>!>
+[END]
+
+
+{40}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 06]
+[C: 1b]
+[MSG SPD]:[03]
+@Astria!
+Why are you_?>
+[GOTO]:[71->41]
+
+{41}
+[PORTRAIT]
+[X: 9][Y: 1]
+[W: 06][H: 06]
+[C: 1e]
+
+@Midia? Is that you?
+So you're safe?
+Thank goodness.
+I was hoping to
+see you again.>
+[GOTO]:[71->42]
+
+{42}
+@Ah_ Astria.
+You weren't informed?
+The Aritian army's
+already liberated
+Pales.>
+[NEXT]
+@We hostages were all
+freed, and now we're
+fighting with Aritia.>
+[NEXT]
+@You don't need to
+cooperate with the
+enemy anymore.>
+[GOTO]:[71->44]
+
+{43}
+@That's a relief.
+Once again I'll
+fight our Durhuan
+enemies.>
+[GOTO]:[71->45]
+
+{44}
+@That's a relief.
+Once again I'll
+fight our Durhuan
+enemies.>
+[GOTO]:[71->45]
+
+{45}
+@Yes, we'll be together
+from now on.
+I'll never leave your
+side again.>
+[GOTO]:[71->46]
+
+{46}
+@Midia_
+You're so_>
+[GOTO]:[71->47]
+
+{47}
+@Huh? What is it_?
+Astria?>
+[GOTO]:[71->48]
+
+{48}
+@Heheh_
+You've become so_
+ladylike, Midia.>
+[END]
+
+
+{49}
+[X: 1][Y: 6]
+[W: 1a][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 06]
+[C: 2b]
+[MSG SPD]:[03]
+@Machis! My brother,
+Machis! It's me,
+Lena!>
+[GOTO]:[71->4a]
+
+{4a}
+[PORTRAIT]
+[X: 9][Y: 1]
+[W: 06][H: 06]
+[C: 45]
+
+@Ah, Lena?!
+Why are you here_?>
+[GOTO]:[71->4b]
+
+{4b}
+@I was captured by
+thieves in Devil
+Mountain until the
+Aritians rescued me.>
+[NEXT]
+@What are you doing
+in the army?>
+[GOTO]:[71->4c]
+
+{4c}
+@Since you rejected
+Prince Misheil,
+Macedonia has become
+more ruthless.>
+[NEXT]
+@The prince despised me,
+so he forced me to
+join the army and
+fight here.>
+[NEXT]
+I don't like fighting,
+but what choice do I
+have?>
+[GOTO]:[71->4d]
+
+{4d}
+
+[END]
+
+
+{4e}
+@_
+Really? Alright.
+If I'm going to
+die, it might as
+well be in glory.>
+[NEXT]
+@But, I heard that
+you flatly denied the
+prince's proposal.
+Life isn't easy with
+a sister like you.>
+[NEXT]
+@That said, you're still
+a woman. Are there
+any men who take
+your fancy?>
+[GOTO]:[71->4f]
+
+{4f}
+@Um_
+No, no one like
+that_>
+
+[GOTO]:[71->50]
+
+{50}
+@Hmm_ I was so
+sure there was_>
+[NEXT]
+Well, you're older
+now, but take my 
+advice:
+Never fall in love
+with a thief.>
+[END]
+
+
+{51}
+
+[END]
+
+
+{52}
+
+[END]
+
+
+{53}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 06]
+[C: 31]
+[MSG SPD]:[03]
+@Good day. I am
+Sheeda of Talis. I
+haven't come to fight
+you.>
+[GOTO]:[71->54]
+
+{54}
+[PORTRAIT]
+[X: 9][Y: 1]
+[W: 06][H: 06]
+[C: 46]
+
+@Wha-?
+You surprised me!
+Why'd you show up
+here all of a sudden?>
+[GOTO]:[71->55]
+
+{55}
+@Tell me, do you
+believe in love?
+Do you have someone
+you love?>
+[GOTO]:[71->56]
+
+{56}
+@Wh- why_?
+Are you feeling okay?>
+[GOTO]:[71->57]
+
+{57}
+@Teehee_ sorry.
+You just looked so
+kind, I wanted to
+talk to you.>
+[NEXT]
+@If it's alright,
+could you tell me
+your name?>
+[GOTO]:[71->58]
+
+{58}
+@Oh, uh,
+I_ I'm, um
+Roger, of Grunia.>
+[GOTO]:[71->59]
+
+{59}
+@Well, Roger_
+These endless wars
+make helpless women
+and children cry.>
+[NEXT]
+@We of the allied
+forces want to make
+this tragic fighting
+end as soon as
+possible.
+I hope you understand.>
+[GOTO]:[71->5a]
+
+{5a}
+@Ah, that I do.
+This fighting doesn't
+make me happy.
+But I can't betray
+my country.>
+[GOTO]:[71->5b]
+
+{5b}
+@In Grunia, is there
+anyone important to
+you?>
+[GOTO]:[71->5c]
+
+{5c}
+@No, my parents died.
+I don't have any
+woman, either.
+But I still can't
+betray my homeland.>
+[GOTO]:[71->5d]
+
+{5d}
+@Is that what you
+really want?>
+[GOTO]:[71->5e]
+
+{5e}
+@Yeah, I'm sorry_>
+[GOTO]:[71->5f]
+
+{5f}
+@Very well, I'm sorry.
+But I'm glad to
+have had the chance
+to talk to you.>
+[GOTO]:[71->60]
+
+{60}
+@Oh, you're leaving_?>
+[GOTO]:[71->61]
+
+{61}
+@I'll just be trouble
+for you here.
+Other people might get
+suspicious.>
+[GOTO]:[71->62]
+
+{62}
+@_you're so kind.
+There's no woman
+like you in Grunia_>
+[NEXT]
+@Oh, don't go!
+_I_ want to be your
+friend_ _let me come
+with you!>
+[END]
+
+
+{63}
+[X: 2][Y: 7]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 2]
+[W: 06][H: 06]
+[C: 4e]
+[MSG SPD]:[05]
+@C-curses! Insolent
+rebel curs! Taste
+my Silver Sword!!>
+[END]
+
+
+{64}
+[X: 2][Y: 7]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 3]
+[W: 06][H: 06]
+[C: 37]
+[MSG SPD]:[03]
+@Curse that traitor
+Minerva_
+I'll deal with you
+myself!>
+[END]
+
+
+{65}
+[X: 2][Y: 7]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 9][Y: 3]
+[W: 06][H: 06]
+[C: 46]
+[MSG SPD]:[05]
+@I'm sorry.
+I don't wanna fight,
+but there's no other
+way.>
+[END]
+
+
+{66}
+[X: 2][Y: 7]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 9][Y: 3]
+[W: 06][H: 06]
+[C: 14]
+[MSG SPD]:[05]
+@I really wish I
+didn't have to do
+this_>
+[END]
+
+
+{67}
+[X: 2][Y: 7]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 9][Y: 3]
+[W: 06][H: 06]
+[C: 1d]
+[MSG SPD]:[05]
+@Princess Sheeda_
+Forgive me. I
+have to get the money
+somehow_>
+[END]
+
+
+{68}
+[X: 2][Y: 7]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 2]
+[W: 06][H: 06]
+[C: 12]
+[MSG SPD]:[05]
+@The glorious kingdom
+of Grunia is finished.
+Your highness,
+this is all because
+of you_>
+[END]
+
+
+{69}
+[X: 2][Y: 7]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 9][Y: 2]
+[W: 06][H: 06]
+[C: 45]
+[MSG SPD]:[05]
+@Lena_
+Where are you?
+I just want to see
+you one last time,
+before I die.>
+[END]
+
+
+{6a}
+[X: 2][Y: 7]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 2]
+[W: 06][H: 06]
+[C: 4e]
+[MSG SPD]:[05]
+@So there were
+survivors_
+I should've finished
+you all off back
+then!>
+[END]
+
+
+{6b}
+[X: 2][Y: 7]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 2]
+[W: 06][H: 06]
+[C: 4a]
+[MSG SPD]:[05]
+@Blast that Minerva_
+But I won't surrender.
+I'll show you the
+might of the
+Macedonian Wyvern
+Knights!>
+[END]
+
+
+{6c}
+[X: 2][Y: 8]
+[W: 16][H: 03]
+[MSG SPD]:[01]
+The treasure chest
+was taken!
+[END]
+
+
+

@@ -1,0 +1,870 @@
+{00}
+Fell in
+<delta>B.
+[YESNO]
+
+
+{01}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: b][Y: 4]
+[W: 06][H: 06]
+[C: 07]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+He spent his life
+busy rebuilding his
+kingdom.
+[NEXT_EPILOGUE]
+
+{02}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: a][Y: 4]
+[W: 06][H: 06]
+[C: 0a]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+She stayed by
+Mars's side to
+rebuild the kingdom
+of Aritia together.
+They are soon to
+be married.
+[NEXT_EPILOGUE]
+
+{03}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 5][Y: 4]
+[W: 06][H: 06]
+[C: 08]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+He continued to
+look after Mars
+his whole life.
+[NEXT_EPILOGUE]
+
+{04}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: b][Y: 4]
+[W: 06][H: 06]
+[C: 27]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+He trained hard
+every day as a
+part of the
+Aritian Temple
+Knights.
+[NEXT_EPILOGUE]
+
+{05}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 5][Y: 4]
+[W: 06][H: 06]
+[C: 28]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+He spent the
+rest of his life
+in his homeland with
+his wife, and plans
+to become a father.
+[NEXT_EPILOGUE]
+
+{06}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: b][Y: 4]
+[W: 06][H: 06]
+[C: 3b]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+He wanders around
+various countries
+searching for new
+battles.
+[NEXT_EPILOGUE]
+
+{07}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: b][Y: 4]
+[W: 06][H: 06]
+[C: 34]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+He started an
+orphanage for
+children who lost
+their parents in
+the wars.
+[NEXT_EPILOGUE]
+
+{08}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 4][Y: 4]
+[W: 06][H: 06]
+[C: 16]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+Rickard
+It seems he
+returned to 
+thievery yet
+again.
+[NEXT_EPILOGUE]
+
+{09}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 4][Y: 4]
+[W: 06][H: 06]
+[C: 35]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+He looked after
+children in a
+monastery in
+Aritia.
+[NEXT_EPILOGUE]
+
+{0a}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 4][Y: 4]
+[W: 06][H: 06]
+[C: 39]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+He works as a
+woodcutter in his
+hometown.
+[NEXT_EPILOGUE]
+
+{0b}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: b][Y: 4]
+[W: 06][H: 06]
+[C: 39]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+He lived a life
+of ease as a
+fisherman in his
+hometown.
+[NEXT_EPILOGUE]
+
+{0c}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: b][Y: 4]
+[W: 06][H: 06]
+[C: 43]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+He lent his power
+to Akaneia's
+reconstruction.
+[NEXT_EPILOGUE]
+
+{0d}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: b][Y: 4]
+[W: 06][H: 06]
+[C: 1d]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+He returned to
+Talis and is
+tending to his
+mother.
+[NEXT_EPILOGUE]
+
+{0e}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 6][Y: 4]
+[W: 06][H: 06]
+[C: 2f]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+He returned to
+protect Talis again,
+and married an
+unknown woman.
+[NEXT_EPILOGUE]
+
+{0f}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 4][Y: 4]
+[W: 06][H: 06]
+[C: 19]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+He went back to
+the sea by his
+own will, and was
+never seen again.
+[NEXT_EPILOGUE]
+
+{10}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: b][Y: 4]
+[W: 06][H: 06]
+[C: 2a]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+He returned to
+his hometown in
+Macedonia and
+started his own
+shop.
+Rumor has it,
+he became a dad_
+[NEXT_EPILOGUE]
+
+{11}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 4][Y: 4]
+[W: 06][H: 06]
+[C: 2b]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+[JUMP]:[40->40]
+
+{12}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 4][Y: 4]
+[W: 06][H: 06]
+[C: 0c]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+He cast his
+feelings for Elice
+aside and travelled
+back to Khadein.
+[NEXT_EPILOGUE]
+
+{13}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 4][Y: 4]
+[W: 06][H: 06]
+[C: 4c]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+Navarre
+[JUMP]:[40->41]
+
+{14}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 6][Y: 4]
+[W: 06][H: 06]
+[C: 0d]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+After saving Nyna,
+he used his power
+to rebuild the
+kingdom of Akaneia.
+Later, he wed Nyna
+and became king.
+[NEXT_EPILOGUE]
+
+{15}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 6][Y: 4]
+[W: 06][H: 06]
+[C: 42]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+At Hardin's request,
+he became a
+prominent member
+of the Orleans 
+order of knights.
+[NEXT_EPILOGUE]
+
+{16}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 7][Y: 4]
+[W: 06][H: 06]
+[C: 3f]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+Lent his power
+to rebuild the
+Orleans knight
+order.
+[NEXT_EPILOGUE]
+
+{17}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 6][Y: 4]
+[W: 06][H: 06]
+[C: 44]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+Since he grew
+tired of fighting,
+he hasn't been
+heard from.
+[NEXT_EPILOGUE]
+
+{18}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 4][Y: 4]
+[W: 06][H: 06]
+[C: 45]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+Lent his power
+to rebuild the
+Orleans knight
+order.
+[NEXT_EPILOGUE]
+
+{19}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 3][Y: 4]
+[W: 06][H: 06]
+[C: 18]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+He sealed his
+dragon stone away
+and spent the
+rest of his days
+in rural Durhua.
+[NEXT_EPILOGUE]
+
+{1a}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 4][Y: 4]
+[W: 06][H: 06]
+[C: 13]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+[JUMP]:[40->36]
+
+{1b}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 6][Y: 4]
+[W: 06][H: 06]
+[C: 47]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+With the horrors
+of war over, he
+fell in love with
+a young woman
+and gave up his
+sword. He's said
+to be living
+happily.
+[NEXT_EPILOGUE]
+
+{1c}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 7][Y: 4]
+[W: 06][H: 06]
+[C: 1b]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+Dressed in a
+beautiful gown,
+no one could
+recognize her as
+the same heroic
+knight Midia.
+[NEXT_EPILOGUE]
+
+{1d}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 3][Y: 4]
+[W: 06][H: 06]
+[C: 11]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+[JUMP]:[40->39]
+
+{1e}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 4][Y: 4]
+[W: 06][H: 06]
+[C: 2c]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+Even now, she
+joyfully travels
+by Mars's side.
+[NEXT_EPILOGUE]
+
+{1f}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 4][Y: 4]
+[W: 06][H: 06]
+[C: 0e]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+Minerva
+As Macedonia's
+princess, she
+busies herslf in
+the reconstruction
+of the kingdom.
+[NEXT_EPILOGUE]
+
+{20}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 4][Y: 4]
+[W: 06][H: 06]
+[C: 22]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+With her elite
+Aura magic sealed,
+she now lives
+peacefully.
+[NEXT_EPILOGUE]
+
+{21}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 4][Y: 4]
+[W: 06][H: 06]
+[C: 3a]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+[JUMP]:[40->38]
+
+{22}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 3][Y: 4]
+[W: 06][H: 06]
+[C: 3c]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+[JUMP]:[40->38]
+
+{23}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 3][Y: 4]
+[W: 06][H: 06]
+[C: 3c]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+[JUMP]:[40->38]
+
+{24}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 3][Y: 4]
+[W: 06][H: 06]
+[C: 34]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+[JUMP]:[40->36]
+
+{25}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 4][Y: 4]
+[W: 06][H: 06]
+[C: 2d]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+He diligently
+resumed his duty
+as bishop of his
+home kingdom.
+[NEXT_EPILOGUE]
+
+{26}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 3][Y: 4]
+[W: 06][H: 06]
+[C: 1a]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+[JUMP]:[40->36]
+
+{27}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 3][Y: 4]
+[W: 06][H: 06]
+[C: 3d]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+[JUMP]:[40->3d]
+
+{28}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 4][Y: 4]
+[W: 06][H: 06]
+[C: 14]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+[JUMP]:[40->36]
+
+{29}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 4][Y: 4]
+[W: 06][H: 06]
+[C: 4b]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+[JUMP]:[40->41]
+
+{2a}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 4][Y: 4]
+[W: 06][H: 06]
+[C: 2e]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+[JUMP]:[40->3c]
+
+{2b}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 4][Y: 4]
+[W: 06][H: 06]
+[C: 0f]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+Though an Aritian
+Knight caught her
+fancy, she is
+happy living on
+her own.
+[NEXT_EPILOGUE]
+
+{2c}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 4][Y: 4]
+[W: 06][H: 06]
+[C: 1e]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+[JUMP]:[40->38]
+
+{2d}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 4][Y: 4]
+[W: 06][H: 06]
+[C: 45]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+[JUMP]:[40->36]
+
+{2e}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 6][Y: 4]
+[W: 06][H: 06]
+[C: 46]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+[JUMP]:[40->3b]
+
+{2f}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 8][Y: 4]
+[W: 06][H: 06]
+[C: 14]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+[JUMP]:[40->38]
+
+{30}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 3][Y: 4]
+[W: 06][H: 06]
+[C: 10]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+She works every
+day to help
+rebuild the kingdom
+of Macedonia.
+[NEXT_EPILOGUE]
+
+{31}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 6][Y: 4]
+[W: 06][H: 06]
+[C: 29]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+She has become
+more ladylike_
+or so she says_
+[NEXT_EPILOGUE]
+
+{32}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 5][Y: 4]
+[W: 06][H: 06]
+[C: 12]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+[JUMP]:[40->3d]
+
+{33}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 6][Y: 4]
+[W: 06][H: 06]
+[C: 21]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+As Mars's last
+living relative,
+she kindly watches
+over him.
+[NEXT_EPILOGUE]
+
+{34}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 5][Y: 4]
+[W: 06][H: 06]
+[C: 4a]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+[JUMP]:[40->3c]
+
+{35}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 4][Y: 4]
+[W: 06][H: 06]
+[C: 23]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+At Nyna's request,
+he was appointed
+as Akaneia's
+Archbishop.
+Many people seek
+out his teachings.
+[NEXT_EPILOGUE]
+
+{36}
+He engaged battle
+with the surviving
+forces.
+[NEXT_EPILOGUE]
+
+{37}
+
+[NEXT_EPILOGUE]
+
+{38}
+He lent his power
+to Akaneia's
+reconstruction.
+[NEXT_EPILOGUE]
+
+{39}
+She works every
+day to help
+rebuild the kingdom
+of Macedonia.
+[NEXT_EPILOGUE]
+
+{3a}
+
+[NEXT_EPILOGUE]
+
+{3b}
+He wanders around
+various countries
+searching for new
+battles.
+[NEXT_EPILOGUE]
+
+{3c}
+He lent his power
+to Akaneia's
+reconstruction.
+[NEXT_EPILOGUE]
+
+{3d}
+
+[JUMP]:[40->36]
+
+{3e}
+[X: 2][Y: 8]
+[W: 16][H: 05]
+[PORTRAIT]
+[X: 3][Y: 4]
+[W: 06][H: 06]
+[C: 10]
+[TURN_OFF_BLIPS]
+[MSG SPD]:[05]
+<delta>A
+[JUMP]:[40->40]
+
+{3f}
+
+[END]
+
+
+{40}
+She works every
+day to help
+rebuild the kingdom
+of Macedonia.
+[NEXT_EPILOGUE]
+
+{41}
+He wanders around
+various countries
+searching for new
+battles.
+[NEXT_EPILOGUE]
+
+

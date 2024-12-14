@@ -1,0 +1,43 @@
+{00}
+Y: 15
+X: 0f
+Reward: 15
+Line: 2a
+Music: 20
+{01}
+Y: 13
+X: 0e
+Reward: 44
+Line: 15
+Music: 02
+{02}
+Y: 19
+X: 1c
+Reward: 48
+Line: 15
+Music: 02
+{03}
+Y: 11
+X: 0a
+Reward: 7d
+Line: 14
+Music: 02
+{04}
+Y: 12
+X: 0b
+Reward: 49
+Line: 15
+Music: 02
+{05}
+Y: 13
+X: 0c
+Reward: 01
+Line: 15
+Music: 02
+{06}
+Y: 10
+X: 09
+Reward: 53
+Line: 15
+Music: 02
+{END}

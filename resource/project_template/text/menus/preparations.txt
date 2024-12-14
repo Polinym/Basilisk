@@ -1,0 +1,1 @@
+00=A:  Select Unit[#]B: Back to Map[#]UP-DOWN: Move Cursor[#]LEFT-RIGHT: View Items[#]Pick all units and[#]press START.[#]

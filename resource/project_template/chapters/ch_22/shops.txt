@@ -1,0 +1,31 @@
+{00}
+Y: 19
+X: 1d
+Type: 04
+List: 00
+{01}
+Y: 06
+X: 08
+Type: 04
+List: 00
+{02}
+Y: 05
+X: 08
+Type: 01
+List: 07
+{03}
+Y: 05
+X: 09
+Type: 01
+List: 05
+{04}
+Y: 06
+X: 09
+Type: 02
+List: 09
+{05}
+Y: 06
+X: 0a
+Type: 02
+List: 0e
+{END}

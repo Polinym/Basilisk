@@ -1,0 +1,16 @@
+12/8/2023
+
+ - Now will stop writing to a bank if it runs out of space.
+ - Added promotion tables
+
+12/13/2024
+
+ - Gosh it's been awhile
+ - Added Patcher utility for adjusting game mods
+ - Resolved some issues with the base patch
+ - Added several patches to undo some mods, add the new gfx, and change fonts
+ - Removed the graphical upgrades from the base patch
+ - Added unit_port_index file to change which units get which portraits
+ - Moved item_names.txt into the text/names folder.
+ - Added button to scale unit stats to level based in growths (UnitMaker)
+ - Fixed some of the weird names used in ThingMaker examples

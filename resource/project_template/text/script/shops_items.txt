@@ -1,0 +1,666 @@
+{00}
+[X: 4][Y: 9]
+[W: 14][H: 04]
+[PORTRAIT]
+[X: b][Y: 4]
+[W: 06][H: 08]
+[C: 00]
+[MSG SPD]:[01]
+[MUSIC]:[55]
+@Welcome.
+What can I do
+for you?>
+[YESNO]
+
+
+{01}
+@<delta>A is
+what you want?>
+[YESNO]
+
+
+{02}
+@You don't have
+enough gold.>
+[JUMP]:[b1->36]
+
+{03}
+@That's odd. You
+can't hold
+anymore.>
+[JUMP]:[b1->06]
+
+{04}
+@You can't use
+this, is that
+okay?>
+[YESNO]
+
+
+{05}
+@Well, it looks
+like you can't
+hold anything
+else. Come again!>
+[END]
+
+
+{06}
+@Come again!>
+[END]
+
+
+{07}
+[X: 4][Y: 9]
+[W: 14][H: 04]
+[PORTRAIT]
+[X: b][Y: 4]
+[W: 06][H: 08]
+[C: 01]
+[MSG SPD]:[01]
+[MUSIC]:[91]
+@Welcome to
+Larabel's<3! Please
+browse our goods.>
+[YESNO]
+
+
+{08}
+@Tee-hee!
+The <delta>A,
+is that right?>
+[YESNO]
+
+
+{09}
+@My! You don't
+have enough gold.>
+[JUMP]:[b1->37]
+
+{0a}
+@Oh dear, your
+baggage is full.>
+[JUMP]:[b1->0d]
+
+{0b}
+@You can't use
+this. Is that
+alright?>
+[YESNO]
+
+
+{0c}
+@Well, it looks
+like you can't
+hold anything
+else. Come again!>
+[END]
+
+
+{0d}
+@Please come
+again!<3>
+[END]
+
+
+{0e}
+[X: 4][Y: 9]
+[W: 14][H: 04]
+[PORTRAIT]
+[X: b][Y: 4]
+[W: 06][H: 08]
+[C: 02]
+[MUSIC]:[90]
+[MSG SPD]:[02]
+@This's the arena.
+You die, you 
+lose.>
+[NEXT]
+@Will you
+participate?>
+[YESNO]
+
+
+{0f}
+@The prize for
+winning's <delta>B0G.
+That alright?>
+[YESNO]
+
+
+{10}
+@Hey, you quittin'?
+Hmpf. Lost your
+nerve, have you?>
+[END]
+
+
+{11}
+@Will you
+participate?>
+[YESNO]
+
+
+{12}
+@Hold up!
+You don't have
+a weapon!>
+[NEXT]
+@How're you gonna
+fight?! Do you
+want to die?!>
+[END]
+
+
+{13}
+@Alright, try not
+to die!>
+[YESNO]
+
+
+{14}
+[X: 4][Y: 9]
+[W: 14][H: 04]
+[PORTRAIT]
+[X: b][Y: 4]
+[W: 06][H: 08]
+[C: 02]
+[MSG SPD]:[02]
+@_>
+[YESNO]
+
+
+{15}
+@Piece of cake,
+huh? Then here's
+your winnings of
+<delta>B0G.>[e3]
+[JUMP]:[b1->18]
+
+{16}
+@Died, eh? Guess
+ya lost it all_>
+[END]
+
+
+{17}
+@No one's died
+yet, ay?>
+[JUMP]:[b1->18]
+
+{18}
+@Farewell.>
+[END]
+
+
+{19}
+[X: 4][Y: 9]
+[W: 14][H: 04]
+[MSG SPD]:[01]
+[KEEP_MUSIC]
+<delta>A equipped
+the <delta>B.
+[END]
+
+
+{1a}
+[X: 4][Y: 9]
+[W: 14][H: 04]
+[MSG SPD]:[01]
+[KEEP_MUSIC]
+<delta>A used
+the <delta>B.
+[YESNO]
+
+
+{1b}
+[X: 4][Y: 9]
+[W: 14][H: 04]
+[MSG SPD]:[01]
+[KEEP_MUSIC]
+<delta>A gave
+the <delta>B to
+<delta>C.
+[END]
+
+
+{1c}
+[X: 4][Y: 9]
+[W: 14][H: 04]
+[MSG SPD]:[01]
+[KEEP_MUSIC]
+<delta>A discarded
+the <delta>B.
+[END]
+
+
+{1d}
+Health recovered
+by <delta>C.
+[END]
+
+
+{1e}
+Defense power
+rose by <delta>C!
+[END]
+
+
+{1f}
+Resistance rose
+by <delta>C!
+[END]
+
+
+{20}
+Movement rose
+by <delta>C!
+[END]
+
+
+{21}
+Weapon level
+rose by <delta>C!
+[END]
+
+
+{22}
+Skill rose 
+by <delta>C!
+[END]
+
+
+{23}
+Strength rose 
+by <delta>C!
+[END]
+
+
+{24}
+Visibilty 
+increased by 
+some arbitrary
+amount!
+[END]
+
+
+{25}
+Speed rose 
+by <delta>C!
+[END]
+
+
+{26}
+Luck rose 
+by <delta>C!
+[END]
+
+
+{27}
+Maximum HP
+rose by <delta>C!
+[END]
+
+
+{28}
+[X: 4][Y: 9]
+[W: 14][H: 04]
+[KEEP_MUSIC]
+<delta>A used
+the <delta>B.
+[END]
+
+
+{29}
+[X: 4][Y: a]
+[W: 14][H: 03]
+[PORTRAIT]
+[X: b][Y: 5]
+[W: 06][H: 08]
+[C: 15]
+[MSG SPD]:[02]
+[MUSIC]:[55]
+@This is the
+convoy.>
+[NEXT]
+@You can withdraw
+and deposit items
+from anywhere.>
+[NEXT]
+@What would you
+like to do?>
+[YESNO]
+
+
+{2a}
+@<delta>A slots are
+empty. What will
+you store?>
+[YESNO]
+
+
+{2b}
+@You don't have
+anything stored.>
+[JUMP]:[b1->2d]
+
+{2c}
+@What will you
+withdraw?>
+[YESNO]
+
+
+{2d}
+@Do you need
+anything else?>
+[YESNO]
+
+
+{2e}
+
+[END]
+
+
+{2f}
+Resistance
+became 7!
+[END]
+
+
+{30}
+But nothing
+happened.
+[END]
+
+
+{31}
+The drawbridge
+lowered.
+[END]
+
+
+{32}
+The door opened.
+[END]
+
+
+{33}
+The ground shook!
+Everyone took
+damage!
+[END]
+
+
+{34}
+@Thank you!>
+@Anything else
+you want to
+purchase?>
+[YESNO]
+
+
+{35}
+@Thank you.>
+@Need anything
+else?>
+[YESNO]
+
+
+{36}
+@Anything else
+you want to
+purchase?>
+[YESNO]
+
+
+{37}
+@Need anything
+else?>
+[YESNO]
+
+
+{38}
+[X: 2][Y: 5]
+[W: 16][H: 03]
+[MSG SPD]:[02]
+The enemy used
+a Live staff.>
+[END]
+
+
+{39}
+[X: 2][Y: 5]
+[W: 16][H: 03]
+[MSG SPD]:[02]
+The enemy used
+a Reserve staff.>
+[END]
+
+
+{3a}
+[X: 2][Y: 5]
+[W: 16][H: 03]
+[MSG SPD]:[02]
+The enemy used
+a Relive staff.>
+[END]
+
+
+{3b}
+@Alright then.
+I shall keep it
+safe for you.>
+[JUMP]:[b1->2d]
+
+{3c}
+@Alright,
+here you go.>
+[YESNO]
+
+
+{3d}
+@Hey! You can't
+afford the fee.>
+[JUMP]:[b1->2d]
+
+{3e}
+@Oh, looks like
+you're out of
+room now.>
+[JUMP]:[b1->2d]
+
+{3f}
+@I say_ you don't
+have anything to
+deposit.>
+[JUMP]:[b1->2d]
+
+{40}
+[X: 4][Y: 9]
+[W: 14][H: 04]
+[MSG SPD]:[01]
+Your inventory is
+full. What will
+you do?>
+[YESNO]
+
+
+{41}
+Qgu @You don't have
+enough funds.>
+[NEXT]
+
+[JUMP]:[b1->44]
+
+{42}
+@The storage is 
+full. You can't
+store anything.>
+[NEXT]
+
+[JUMP]:[b1->44]
+
+{43}
+<delta>A was
+put into the
+storage.
+[END]
+
+
+{44}
+Please discard
+something.
+[YESNO]
+
+
+{45}
+<delta>A discarded
+the <delta>B.
+[END]
+
+
+{46}
+
+[END]
+
+
+{47}
+[X: 4][Y: 9]
+[W: 14][H: 04]
+[PORTRAIT]
+[X: b][Y: 4]
+[W: 06][H: 08]
+[C: 49]
+[MSG SPD]:[01]
+@Welcome to the
+secret shop.
+What would you
+like?>
+[YESNO]
+
+
+{48}
+@The <delta>A?>
+[YESNO]
+
+
+{49}
+@You don't have
+enough gold.>
+[JUMP]:[b1->af]
+
+{4a}
+@You can't store
+that_>
+[JUMP]:[b1->4d]
+
+{4b}
+@You can't use
+this, is that
+fine?>
+[YESNO]
+
+
+{4c}
+@Thank you very
+much!>
+[JUMP]:[b1->4d]
+
+{4d}
+@Come again if
+you get the
+chance!>
+[END]
+
+
+{4e}
+@Thanks so much!   
+@Need anything
+else?>
+[YESNO]
+
+
+{4f}
+@Need anything
+else?>
+[YESNO]
+
+
+{50}
+Health fully
+recovered.
+[END]
+
+
+{51}
+[X: 4][Y: 9]
+[W: 12][H: 03]
+[MSG SPD]:[02]
+You have no
+one fallen to
+revive now.
+[END]
+
+
+{52}
+[X: 2][Y: 9]
+[W: 18][H: 04]
+[MSG SPD]:[01]
+[KEEP_MUSIC]
+Select units to 
+deploy on this 
+map.
+[END]
+
+
+{53}
+[X: 4][Y: 9]
+[W: 16][H: 04]
+[MSG SPD]:[01]
+Erase this
+save data?
+[YESNO]
+
+
+{54}
+Data erased.
+[END]
+
+
+{55}
+[X: 4][Y: 9]
+[W: 16][H: 04]
+[MSG SPD]:[01]
+Data copied.
+[END]
+
+
+{56}
+[X: 4][Y: 9]
+[W: 16][H: 04]
+[MSG SPD]:[01]
+Oh no!
+It's a tragedy!
+[NEXT]
+Your save data
+was destroyed
+by Gharnef!
+[END]
+
+
+{57}
+[X: 4][Y: 9]
+[W: 16][H: 04]
+[PORTRAIT]
+[X: b][Y: 4]
+[W: 06][H: 08]
+[C: 49]
+[MSG SPD]:[01]
+@Game suspended.
+Please hold RESET
+while you turn
+the POWER off!>
+[YESNO]
+
+
+

@@ -1,0 +1,3 @@
+Name: Updated Graphics
+Desc: Adds brand new FE3-inspired graphics to the game. Better map units and improved color palette.
+Credit: Polinym
