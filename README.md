@@ -9,7 +9,8 @@ to ensure your hack will have the nicest experience!
 You can use Archbishop, a GameMaker project, as a tool to create new maps for your project.
 Project map files are stored at C:\Users\<username>\AppData\Local\Archbishop<project_name>
 
-More editors may come, but you can try using ThingMaker in the meantime to make units for players/enemies (requires knowledge of Python).
+Basilisk comes with a UnitMaker app which you can use to create and edit unit data for your hack!
+More editors may come, but you can try using ThingMaker in the meantime to make units for enemies (requires knowledge of Python).
 
 See the readme in the .ZIP for more information on how to use.
 
