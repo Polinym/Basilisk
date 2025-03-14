@@ -435,9 +435,9 @@ there was <delta>A!
 [X: 2][Y: 4]
 [W: 16][H: 04]
 [MSG SPD]:[01]
-Hidden inside the
-treasure chest,
-there was <delta>A!
+<delta>A was
+found hidden inside
+the treasure chest!
 [END]
 
 
