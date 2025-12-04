@@ -1,0 +1,953 @@
+{00}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 06]
+[MSG SPD]:[01]
+@Beware of
+mercenaries.>
+[NEXT]
+@If you get careless,
+those guys can take
+you out in a
+single hit!>
+[END]
+
+
+{01}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 36]
+[MSG SPD]:[01]
+@I hear the Hammer
+is effective against
+armor knights.>
+[END]
+
+
+{02}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 04]
+[MSG SPD]:[01]
+@The sword called
+armor killer is
+terribly powerful
+against armor knights
+and Generals.>
+[NEXT]
+@The knightkiller
+lance is effective
+against social knights
+and paladins.>
+[NEXT]
+@The rapier that
+princes can use is
+effective to all
+those knights.>
+[NEXT]
+@But those weapons wear
+down with every use.
+Use the carefully.>
+[END]
+
+
+{03}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 38]
+[MSG SPD]:[01]
+@If clerics resist
+enemy attacks, their
+level will increase.>
+[END]
+
+
+{04}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 36]
+[MSG SPD]:[01]
+@Armor won't protect
+you against magic.>
+[NEXT]
+@That's why you need
+to use a priest's
+Magic Shield spell.>
+[END]
+
+
+{05}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 04]
+[MSG SPD]:[01]
+@Dragon knights are
+the most terrifying!>
+[NEXT]
+@If they show up,
+you're history!>
+[END]
+
+
+{06}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 04]
+[MSG SPD]:[01]
+@There are treasure
+chests in the castle.
+[NEXT]
+@But to open them,
+you'll need a thief.>
+[END]
+
+
+{07}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 06]
+[MSG SPD]:[01]
+@When you reach level
+10, you can change
+classes!>
+[NEXT]
+@Social Knights
+become Paladins,
+mercenaries become
+Heroes_>
+[NEXT]
+@_the rest, I forget_>
+[END]
+
+
+{08}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 36]
+[MSG SPD]:[01]
+@With more skill,
+you can get critical
+hits.>
+[NEXT]
+@With more speed,
+you can even
+strike twice.>
+[END]
+
+
+{09}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 36]
+[MSG SPD]:[01]
+@Compared to archers,
+hunters have greater
+strength and less
+defense.>
+[NEXT]
+@They should avoid
+close combat.>
+[END]
+
+
+{0a}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 04]
+[MSG SPD]:[04]
+@This world had
+three great bishops.>
+[NEXT]
+@The Archbishop,
+Miroah, the Dark
+Pontifex of darkness,
+Gharnef, and the sage
+of legends, Gatoh.>
+[NEXT]
+@But Miroah was
+defeated by the Dark
+Pontifex Gharnef.>
+[END]
+
+
+{0b}
+
+[GOTO]:[80->00]
+
+{0c}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 38]
+[MSG SPD]:[01]
+@Forts often hide
+many soldiers inside
+who are preparing
+to attack.>
+[NEXT]
+@It's best to hold
+down forts quickly
+before the enemy
+soldiers are deployed.>
+[END]
+
+
+{0d}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 38]
+[MSG SPD]:[01]
+@Port Warren has many
+fine goods for sale.
+[NEXT]
+@But don't waste all
+your gold there.>
+[END]
+
+
+{0e}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 06]
+[MSG SPD]:[01]
+@You can't use stronger
+weapons if your weapon
+level isn't high
+enough!>
+[NEXT]
+@Also, flying things
+need to be wary
+of bows.>
+[END]
+
+
+{0f}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 36]
+[MSG SPD]:[01]
+@Garda is a port
+town to the west of
+Talis island.>
+[NEXT]
+@Right now it's a
+pirate's hideout,
+controlled by a man
+named Gomes.>
+[END]
+
+
+{10}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 38]
+[MSG SPD]:[01]
+@A priest in the
+village south of the
+castle said he wants
+to meet with the
+prince.>
+[END]
+
+
+{11}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 06]
+[MSG SPD]:[01]
+@Weapons come in
+Iron, Steel, and
+Silver ranks, in that
+order of strength.>
+[NEXT]
+@But to use higher
+rank weapons, your
+weapon level must
+be high enough.>
+[END]
+
+
+{12}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 04]
+[MSG SPD]:[01]
+@Villages will leave
+their gates open for
+Prince Mars.>
+[NEXT]
+@But you'd best be
+quick to visit 'em!>
+[NEXT]
+@If you're too slow,
+thieves will reach
+them first.>
+[END]
+
+
+{13}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 36]
+[MSG SPD]:[01]
+@That Minerva is
+really the Princess
+of Macedonia.>
+[NEXT]
+@She's only fighting
+because her little
+sister is held
+captive by Durhua.>
+[NEXT]
+@Although many fear
+her, she's actually a
+beautiful and kind
+person.>
+[NEXT]
+@Is there any way
+to help her?>
+[END]
+
+
+{14}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 38]
+[MSG SPD]:[01]
+@I heard a pirate
+named Darros wants to
+meet Prince Mars.>
+[NEXT]
+@He wants to quit
+fighting, for
+everyone's sake.>
+[NEXT]
+@You should at least
+hear him out once.>
+[END]
+
+
+{15}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 38]
+[MSG SPD]:[01]
+@How dreadful_
+Ever since Akaneia
+fell to ruin, this
+town's become
+deserted.>
+[NEXT]
+@And now that
+ruffians are running
+loose, we can't
+even go outside.>
+[END]
+
+
+{16}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 06]
+[MSG SPD]:[01]
+@Weapons come in
+Iron, Steel, and
+Silver ranks, in that
+order of strength.>
+[NEXT]
+@But to use higher
+rank weapons, your
+weapon level must
+be high enough.>
+[END]
+
+
+{17}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 06]
+[MSG SPD]:[01]
+@There's a slave
+market in this town.>
+[NEXT]
+@But it's just full
+of a buncha stray
+kids.>
+[END]
+
+
+{18}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 49]
+[MSG SPD]:[01]
+@There is a good man
+among the Grunian
+army.>
+[NEXT]
+@It's my boyfriend,
+Jake. He's very kind.>
+[NEXT]
+@If you see him, 
+please tell him that
+Anna still cares 
+about him.>
+[NEXT]
+@Well_
+However, I don't know
+if he'll listen to 
+anyone but women_>
+[END]
+
+
+{19}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 36]
+[MSG SPD]:[01]
+@This is the
+Akaneian town of
+Knorda.>
+[NEXT]
+@Please have a look
+at our weapon and
+item shops.>
+[NEXT]
+@They sell unusual
+wares.>
+[END]
+
+
+{1a}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 38]
+[MSG SPD]:[01]
+@War is a terrible
+thing. It's always the
+women and children
+who cry.>
+[NEXT]
+@You should just go
+home to your loved
+ones.>
+[END]
+
+
+{1b}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 04]
+[MSG SPD]:[01]
+@There are three
+weapons of old in
+the kingdom of
+Akaneia.>
+[NEXT]
+@The bow of flame,
+Parthia_
+The stone-piercing
+lance, Gradius_>
+[NEXT]
+@And the illusory
+sword of the chosen
+one, Miracle.>
+[NEXT]
+@Blessed are those
+who carry them.>
+[END]
+
+
+{1c}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 36]
+[MSG SPD]:[01]
+@Only the weapon
+Thunderbolt is
+effective against
+tanks.>
+[NEXT]
+@But you have to
+get close to fire.>
+[END]
+
+
+{1d}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 36]
+[MSG SPD]:[01]
+@The country once
+fought alongside
+Akaneia.>
+[NEXT]
+@But after its defeat
+by General Camus,
+it was occupied by
+Grunia.>
+[NEXT]
+@You can take it
+back, right?>
+[END]
+
+
+{1e}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 04]
+[MSG SPD]:[01]
+@This is important,
+so listen well.>
+[NEXT]
+@To the southwest
+are two villages.>
+[NEXT]
+@A Paladin named
+Alan lives in the
+western village.>
+[NEXT]
+@In the eastern
+village lives a
+hero named Samson.>
+[NEXT]
+@Those two are both
+strong men, but the
+two villages have an
+age-old fued.>
+[NEXT]
+@Only one of the
+two can be your ally,
+so choose carefully.>
+[END]
+
+
+{1f}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 06]
+[MSG SPD]:[01]
+@General Benson, who
+guards the castle,
+carries a
+knightkiller.>
+[NEXT]
+@He's a danger to
+any social knights
+who get too close.>
+[END]
+
+
+{20}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 04]
+[MSG SPD]:[01]
+@There are keys that
+can open doors and
+bridges to let you
+pass through.>
+[END]
+
+
+{21}
+
+[END]
+
+
+{22}
+
+[END]
+
+
+{23}
+
+[END]
+
+
+{24}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 38]
+[MSG SPD]:[01]
+@It seems Macedonia's
+princess is being
+held captive at
+Diel castle.>
+[NEXT]
+@If Macedonia and
+Durhua are allies,
+why are they doing
+this?>
+[END]
+
+
+{25}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 36]
+[MSG SPD]:[01]
+@If you wanna kill
+a Mamkute, you'd
+better have a
+Dragonkiller.>
+[NEXT]
+@Rumor has it that
+one lies in the
+eastern temple.>
+[END]
+
+
+{26}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 04]
+[MSG SPD]:[01]
+@The Thunder Sword_>
+[NEXT]
+@It'll crack right
+through armor_>
+[END]
+
+
+{27}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 38]
+[MSG SPD]:[01]
+@Forts are a great
+place to rest.>
+[NEXT]
+@You might even
+recover your health
+a bit!>
+[END]
+
+
+{28}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 06]
+[MSG SPD]:[01]
+@With a Silver Card,
+it seems you can
+buy items for half
+off at shops.>
+[NEXT]
+@It's a dream come
+true, isn't it?>
+[END]
+
+
+{29}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 06]
+[MSG SPD]:[01]
+@If you have a
+Member Card, you
+can visit secret
+shops!>
+[NEXT]
+@But where those
+shops are_
+nobody knows.>
+[END]
+
+
+{2a}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 38]
+[MSG SPD]:[01]
+@My, it's the
+Aritian knights.
+I'm so glad you've
+returned.>
+[NEXT]
+@Now this country
+can finally be
+peaceful, just like
+it used to be.>
+[END]
+
+
+{2b}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 38]
+[MSG SPD]:[01]
+@Princess Elice was
+taken away by a
+wicked sage named
+Gharnef.>
+[NEXT]
+@Oh, Princess,
+it's so pitiful_
+I hope you're safe.>
+[END]
+
+
+{2c}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 36]
+[MSG SPD]:[01]
+@I heard a man
+named Chainey is being
+held in the eastern
+prison.>
+[NEXT]
+@Rumor has it he
+has secret powers.>
+[END]
+
+
+{2d}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 06]
+[MSG SPD]:[01]
+@You can't win
+against Gharnef.>
+[NEXT]
+@His dark magic Maph
+calls evil spirits to
+protect him.>
+[NEXT]
+@But if you had
+the great sage Gatoh's
+Starlight_>
+[NEXT]
+@Oh, it's too
+dangerous! He could be
+spying on us!
+You'd better get
+outta here!>
+[END]
+
+
+{2e}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 36]
+[MSG SPD]:[01]
+@They say a great
+sage lives in the
+northern village.>
+[NEXT]
+@But he hates people
+so he won't meet
+with anyone.>
+[END]
+
+
+{2f}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 06]
+[MSG SPD]:[03]
+@Beware the Devil
+Sword!>
+[NEXT]
+@It's mighty powerful,
+but it may take a
+swing at your own
+neck, y'hear?>
+[END]
+
+
+{30}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 04]
+[MSG SPD]:[01]
+@The Raman temple
+houses three Orbs
+containing great
+power.>
+[NEXT]
+@The Light, Star, and
+Earth Orbs.>
+[NEXT]
+@Only once they are
+in your hands, can
+you know what their
+mysterious powers are.>
+[END]
+
+
+{31}
+[X: 2][Y: 6]
+[W: 18][H: 05]
+[PORTRAIT]
+[X: 3][Y: 1]
+[W: 06][H: 08]
+[C: 04]
+[MSG SPD]:[04]
+@In the southern
+mountains is a
+sacred temple.>
+[NEXT]
+@If you stand in
+front of the altar
+and use the revival
+staff Ohm_>
+[NEXT]
+@_you can meet with
+someone you miss
+once again_>
+[NEXT]
+@But it won't be
+enough to bring back
+honor to the series
+name, I'm afraid.>
+[NEXT]
+@Your descendents will
+be stuck in some
+trash anime game that
+doesn't understand
+the point of the
+franchise.>
+[NEXT]
+@But excuse me, I
+can't help my rambling
+sometimes_>
+[END]
+
+
+

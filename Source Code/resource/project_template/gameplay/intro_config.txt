@@ -1,0 +1,125 @@
+Chapter 1:
+   Line: 01
+   BGM: 08
+
+
+Chapter 2:
+   Line: 05
+   BGM: 08
+
+
+Chapter 3:
+   Line: 06
+   BGM: 08
+
+
+Chapter 4:
+   Line: 09
+   BGM: 08
+
+
+Chapter 5:
+   Line: 0a
+   BGM: 08
+
+
+Chapter 6:
+   Line: 0d
+   BGM: 08
+
+
+Chapter 7:
+   Line: 0e
+   BGM: 08
+
+
+Chapter 8:
+   Line: 11
+   BGM: 08
+
+
+Chapter 9:
+   Line: 12
+   BGM: 08
+
+
+Chapter 10:
+   Line: 13
+   BGM: 08
+
+
+Chapter 11:
+   Line: 14
+   BGM: 08
+
+
+Chapter 12:
+   Line: 15
+   BGM: 08
+
+
+Chapter 13:
+   Line: 16
+   BGM: 08
+
+
+Chapter 14:
+   Line: 17
+   BGM: 08
+
+
+Chapter 15:
+   Line: 18
+   BGM: 08
+
+
+Chapter 16:
+   Line: 19
+   BGM: 08
+
+
+Chapter 17:
+   Line: 1a
+   BGM: 08
+
+
+Chapter 18:
+   Line: 1b
+   BGM: 08
+
+
+Chapter 19:
+   Line: 1c
+   BGM: 08
+
+
+Chapter 20:
+   Line: 1d
+   BGM: 08
+
+
+Chapter 21:
+   Line: 21
+   BGM: 08
+
+
+Chapter 22:
+   Line: 22
+   BGM: 08
+
+
+Chapter 23:
+   Line: 23
+   BGM: 08
+
+
+Chapter 24:
+   Line: 24
+   BGM: 08
+
+
+Chapter 25:
+   Line: 25
+   BGM: 08
+
+

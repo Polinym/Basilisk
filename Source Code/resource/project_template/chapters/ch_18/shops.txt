@@ -1,0 +1,36 @@
+{00}
+Y: 02
+X: 14
+Type: 04
+List: 00
+{01}
+Y: 10
+X: 1b
+Type: 04
+List: 00
+{02}
+Y: 0f
+X: 1c
+Type: 01
+List: 04
+{03}
+Y: 0f
+X: 1e
+Type: 02
+List: 0e
+{04}
+Y: 11
+X: 1e
+Type: 01
+List: 05
+{05}
+Y: 11
+X: 1c
+Type: 02
+List: 09
+{06}
+Y: 10
+X: 1d
+Type: 03
+List: 00
+{END}

@@ -1,0 +1,3 @@
+Name: Castlevania Font
+Desc: Replaces the game font with the one from Castlevania III.
+Credit: Castlevania III

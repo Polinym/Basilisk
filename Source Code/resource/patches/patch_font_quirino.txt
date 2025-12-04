@@ -1,0 +1,3 @@
+Name: Quirino Font
+Desc: Replaces the game font with the one from the original FE1 translation.
+Credit: https://www.romhacking.net/translations/1593/

@@ -1,0 +1,98 @@
+{00}
+   Recruiter: 02
+   Enemy: bd
+   New Player ID: 0a
+   Recruit Line: 0d
+
+
+{01}
+   Recruiter: 02
+   Enemy: 87
+   New Player ID: 0b
+   Recruit Line: 13
+
+
+{02}
+   Recruiter: 02
+   Enemy: bf
+   New Player ID: 0c
+   Recruit Line: 2f
+
+
+{03}
+   Recruiter: 02
+   Enemy: c0
+   New Player ID: 0d
+   Recruit Line: 32
+
+
+{04}
+   Recruiter: 10
+   Enemy: ae
+   New Player ID: 0f
+   Recruit Line: 08
+
+
+{05}
+   Recruiter: 19
+   Enemy: ba
+   New Player ID: 10
+   Recruit Line: 31
+
+
+{06}
+   Recruiter: 2c
+   Enemy: 99
+   New Player ID: 1e
+   Recruit Line: 34
+
+
+{07}
+   Recruiter: 01
+   Enemy: 9e
+   New Player ID: 01
+   Recruit Line: 1e
+
+
+{08}
+   Recruiter: 01
+   Enemy: c1
+   New Player ID: 3d
+   Recruit Line: 29
+
+
+{09}
+   Recruiter: 01
+   Enemy: ad
+   New Player ID: 00
+   Recruit Line: 0f
+
+
+{0a}
+   Recruiter: 02
+   Enemy: c3
+   New Player ID: 53
+   Recruit Line: 2e
+
+
+{0b}
+   Recruiter: 11
+   Enemy: c4
+   New Player ID: 49
+   Recruit Line: 2d
+
+
+{0c}
+   Recruiter: 1c
+   Enemy: c5
+   New Player ID: 40
+   Recruit Line: 2c
+
+
+{0d}
+   Recruiter: 12
+   Enemy: b6
+   New Player ID: 18
+   Recruit Line: 2a
+
+

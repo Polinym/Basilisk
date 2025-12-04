@@ -1,0 +1,3 @@
+Name: Force Deployment Requirement
+Desc: When added, makes it so you MUST deploy the required number of units in battle. This restores the vanilla game behavior.
+Credit: Polinym

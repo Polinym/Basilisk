@@ -1,0 +1,1288 @@
+01:
+   Might:  12
+   WLevel: 9
+   Weight: 3
+   Hit:    100
+   Crit:   0
+   Price:  200
+   Uses:   17
+   Bonus:  0x00
+   Effect: none
+   Range:  1
+   Type:   sword
+
+
+02:
+   Might:  5
+   WLevel: 2
+   Weight: 2
+   Hit:    100
+   Crit:   0
+   Price:  32
+   Uses:   42
+   Bonus:  0x00
+   Effect: none
+   Range:  1
+   Type:   sword
+
+
+03:
+   Might:  8
+   WLevel: 2
+   Weight: 4
+   Hit:    80
+   Crit:   0
+   Price:  50
+   Uses:   38
+   Bonus:  0x00
+   Effect: none
+   Range:  1
+   Type:   sword
+
+
+04:
+   Might:  5
+   WLevel: 3
+   Weight: 2
+   Hit:    80
+   Crit:   0
+   Price:  76
+   Uses:   22
+   Bonus:  0x04
+   Effect: none
+   Range:  1
+   Type:   sword
+
+
+05:
+   Might:  5
+   WLevel: 5
+   Weight: 1
+   Hit:    100
+   Crit:   10
+   Price:  90
+   Uses:   28
+   Bonus:  0x01
+   Effect: none
+   Range:  1
+   Type:   lord_only
+
+
+06:
+   Might:  6
+   WLevel: 7
+   Weight: 2
+   Hit:    80
+   Crit:   0
+   Price:  120
+   Uses:   16
+   Bonus:  0x07
+   Effect: none
+   Range:  1
+   Type:   sword
+
+
+07:
+   Might:  8
+   WLevel: 7
+   Weight: 2
+   Hit:    100
+   Crit:   20
+   Price:  125
+   Uses:   22
+   Bonus:  0x00
+   Effect: none
+   Range:  1
+   Type:   sword
+
+
+08:
+   Might:  18
+   WLevel: prf_01
+   Weight: 1
+   Hit:    100
+   Crit:   10
+   Price:  0
+   Uses:   24
+   Bonus:  0x00
+   Effect: none
+   Range:  1
+   Type:   sword
+
+
+09:
+   Might:  7
+   WLevel: 8
+   Weight: 2
+   Hit:    90
+   Crit:   0
+   Price:  160
+   Uses:   20
+   Bonus:  0x00
+   Effect: none
+   Range:  1-2
+   Type:   sword
+
+
+0a:
+   Might:  17
+   WLevel: 1
+   Weight: 5
+   Hit:    100
+   Crit:   0
+   Price:  255
+   Uses:   19
+   Bonus:  0x00
+   Effect: none
+   Range:  1
+   Type:   sword
+
+
+0b:
+   Might:  10
+   WLevel: prf_01
+   Weight: 3
+   Hit:    100
+   Crit:   0
+   Price:  255
+   Uses:   255
+   Bonus:  0x08
+   Effect: falchion
+   Range:  1_item
+   Type:   sword
+
+
+0c:
+   Might:  8
+   WLevel: 1
+   Weight: 6
+   Hit:    80
+   Crit:   0
+   Price:  45
+   Uses:   38
+   Bonus:  0x00
+   Effect: none
+   Range:  1
+   Type:   lance
+
+
+0d:
+   Might:  7
+   WLevel: 4
+   Weight: 5
+   Hit:    90
+   Crit:   0
+   Price:  82
+   Uses:   14
+   Bonus:  0x05
+   Effect: none
+   Range:  1
+   Type:   lance
+
+
+0e:
+   Might:  12
+   WLevel: 7
+   Weight: 7
+   Hit:    80
+   Crit:   0
+   Price:  180
+   Uses:   20
+   Bonus:  0x00
+   Effect: none
+   Range:  1
+   Type:   lance
+
+
+0f:
+   Might:  7
+   WLevel: 3
+   Weight: 6
+   Hit:    70
+   Crit:   0
+   Price:  60
+   Uses:   22
+   Bonus:  0x00
+   Effect: none
+   Range:  1-2
+   Type:   lance
+
+
+10:
+   Might:  20
+   WLevel: 14
+   Weight: 4
+   Hit:    100
+   Crit:   0
+   Price:  255
+   Uses:   17
+   Bonus:  0x00
+   Effect: none
+   Range:  1-2_item
+   Type:   lance
+
+
+11:
+   Might:  4
+   WLevel: 1
+   Weight: 1
+   Hit:    90
+   Crit:   0
+   Price:  40
+   Uses:   33
+   Bonus:  0x02
+   Effect: none
+   Range:  2
+   Type:   bow
+
+
+12:
+   Might:  7
+   WLevel: 3
+   Weight: 3
+   Hit:    80
+   Crit:   0
+   Price:  56
+   Uses:   28
+   Bonus:  0x02
+   Effect: none
+   Range:  2
+   Type:   bow
+
+
+13:
+   Might:  5
+   WLevel: 2
+   Weight: 2
+   Hit:    100
+   Crit:   20
+   Price:  95
+   Uses:   37
+   Bonus:  0x02
+   Effect: none
+   Range:  2
+   Type:   bow
+
+
+14:
+   Might:  11
+   WLevel: 7
+   Weight: 6
+   Hit:    80
+   Crit:   0
+   Price:  220
+   Uses:   24
+   Bonus:  0x02
+   Effect: none
+   Range:  2
+   Type:   bow
+
+
+15:
+   Might:  17
+   WLevel: 13
+   Weight: 3
+   Hit:    100
+   Crit:   0
+   Price:  255
+   Uses:   17
+   Bonus:  0x02
+   Effect: none
+   Range:  2_item
+   Type:   bow
+
+
+16:
+   Might:  12
+   WLevel: 1
+   Weight: 7
+   Hit:    90
+   Crit:   0
+   Price:  100
+   Uses:   27
+   Bonus:  0x02
+   Effect: none
+   Range:  2
+   Type:   ballista
+
+
+17:
+   Might:  15
+   WLevel: 2
+   Weight: 13
+   Hit:    50
+   Crit:   0
+   Price:  128
+   Uses:   43
+   Bonus:  0x00
+   Effect: none
+   Range:  2
+   Type:   ballista
+
+
+18:
+   Might:  12
+   WLevel: 5
+   Weight: 10
+   Hit:    100
+   Crit:   0
+   Price:  140
+   Uses:   23
+   Bonus:  0x00
+   Effect: none
+   Range:  2
+   Type:   ballista
+
+
+19:
+   Might:  10
+   WLevel: 6
+   Weight: 11
+   Hit:    90
+   Crit:   0
+   Price:  195
+   Uses:   23
+   Bonus:  0x0a
+   Effect: none
+   Range:  2
+   Type:   ballista
+
+
+1a:
+   Might:  18
+   WLevel: 1
+   Weight: 12
+   Hit:    90
+   Crit:   0
+   Price:  255
+   Uses:   19
+   Bonus:  0x00
+   Effect: none
+   Range:  2
+   Type:   ballista
+
+
+1b:
+   Might:  7
+   WLevel: 1
+   Weight: 7
+   Hit:    80
+   Crit:   0
+   Price:  36
+   Uses:   43
+   Bonus:  0x00
+   Effect: none
+   Range:  1
+   Type:   axe
+
+
+1c:
+   Might:  9
+   WLevel: 2
+   Weight: 9
+   Hit:    70
+   Crit:   0
+   Price:  55
+   Uses:   31
+   Bonus:  0x00
+   Effect: none
+   Range:  1
+   Type:   axe
+
+
+1d:
+   Might:  6
+   WLevel: 2
+   Weight: 6
+   Hit:    70
+   Crit:   0
+   Price:  30
+   Uses:   40
+   Bonus:  0x04
+   Effect: none
+   Range:  1
+   Type:   axe
+
+
+1e:
+   Might:  20
+   WLevel: 4
+   Weight: 14
+   Hit:    70
+   Crit:   0
+   Price:  255
+   Uses:   9
+   Bonus:  0x00
+   Effect: none
+   Range:  1
+   Type:   axe
+
+
+1f:
+   Might:  5
+   WLevel: 3
+   Weight: 9
+   Hit:    60
+   Crit:   0
+   Price:  45
+   Uses:   13
+   Bonus:  0x00
+   Effect: none
+   Range:  1-2
+   Type:   axe
+
+
+20:
+   Might:  15
+   WLevel: 20
+   Weight: 4
+   Hit:    100
+   Crit:   30
+   Price:  56
+   Uses:   20
+   Bonus:  0x09
+   Effect: 2range_proof
+   Range:  1-2
+   Type:   sword
+
+
+21:
+   Might:  8
+   WLevel: 8
+   Weight: 4
+   Hit:    80
+   Crit:   0
+   Price:  0
+   Uses:   12
+   Bonus:  0x03
+   Effect: none
+   Range:  1
+   Type:   sword
+
+
+22:
+   Might:  18
+   WLevel: 1
+   Weight: 6
+   Hit:    90
+   Crit:   0
+   Price:  12
+   Uses:   255
+   Bonus:  0x00
+   Effect: magic_proof
+   Range:  1
+   Type:   dragonstone
+
+
+23:
+   Might:  12
+   WLevel: prf_31
+   Weight: 5
+   Hit:    100
+   Crit:   0
+   Price:  14
+   Uses:   255
+   Bonus:  0x06
+   Effect: none
+   Range:  1
+   Type:   dragonstone
+
+
+24:
+   Might:  16
+   WLevel: prf_19
+   Weight: 3
+   Hit:    80
+   Crit:   0
+   Price:  12
+   Uses:   255
+   Bonus:  0x00
+   Effect: none
+   Range:  1
+   Type:   dragonstone
+
+
+25:
+   Might:  9
+   WLevel: 4
+   Weight: 4
+   Hit:    100
+   Crit:   20
+   Price:  0
+   Uses:   24
+   Bonus:  0x00
+   Effect: none
+   Range:  1
+   Type:   lance
+
+
+26:
+   Might:  20
+   WLevel: 20
+   Weight: 10
+   Hit:    70
+   Crit:   0
+   Price:  18
+   Uses:   255
+   Bonus:  0x00
+   Effect: 2range_proof
+   Range:  1
+   Type:   dragonstone
+
+
+27:
+   Might:  8
+   WLevel: 6
+   Weight: 3
+   Hit:    100
+   Crit:   20
+   Price:  0
+   Uses:   20
+   Bonus:  0x00
+   Effect: none
+   Range:  2
+   Type:   bow
+
+
+28:
+   Might:  5
+   WLevel: 4
+   Weight: 0
+   Hit:    100
+   Crit:   20
+   Price:  0
+   Uses:   30
+   Bonus:  0x02
+   Effect: none
+   Range:  1-2
+   Type:   tome
+
+
+29:
+   Might:  9
+   WLevel: 6
+   Weight: 2
+   Hit:    100
+   Crit:   5
+   Price:  0
+   Uses:   40
+   Bonus:  0x09
+   Effect: none
+   Range:  1
+   Type:   sword
+
+
+2a:
+   Might:  5
+   WLevel: 1
+   Weight: 2
+   Hit:    100
+   Crit:   5
+   Price:  12
+   Uses:   30
+   Bonus:  0x00
+   Effect: none
+   Range:  1
+   Type:   lance
+
+
+2b:
+   Might:  5
+   WLevel: 1
+   Weight: 0
+   Hit:    100
+   Crit:   0
+   Price:  30
+   Uses:   25
+   Bonus:  0x00
+   Effect: none
+   Range:  1-2
+   Type:   tome
+
+
+2c:
+   Might:  6
+   WLevel: 2
+   Weight: 1
+   Hit:    90
+   Crit:   0
+   Price:  46
+   Uses:   21
+   Bonus:  0x00
+   Effect: none
+   Range:  1-2
+   Type:   tome
+
+
+2d:
+   Might:  7
+   WLevel: 3
+   Weight: 2
+   Hit:    80
+   Crit:   5
+   Price:  70
+   Uses:   23
+   Bonus:  0x00
+   Effect: none
+   Range:  1-2
+   Type:   tome
+
+
+2e:
+   Might:  9
+   WLevel: 4
+   Weight: 5
+   Hit:    80
+   Crit:   0
+   Price:  125
+   Uses:   18
+   Bonus:  0x00
+   Effect: none
+   Range:  1-2
+   Type:   tome
+
+
+2f:
+   Might:  12
+   WLevel: 5
+   Weight: 6
+   Hit:    70
+   Crit:   0
+   Price:  160
+   Uses:   13
+   Bonus:  0x00
+   Effect: none
+   Range:  1-2
+   Type:   tome
+
+
+30:
+   Might:  13
+   WLevel: 6
+   Weight: 3
+   Hit:    100
+   Crit:   10
+   Price:  195
+   Uses:   21
+   Bonus:  0x00
+   Effect: none
+   Range:  1-2
+   Type:   tome
+
+
+31:
+   Might:  16
+   WLevel: 7
+   Weight: 9
+   Hit:    70
+   Crit:   0
+   Price:  228
+   Uses:   25
+   Bonus:  0x00
+   Effect: none
+   Range:  1-2
+   Type:   tome
+
+
+32:
+   Might:  20
+   WLevel: prf_20
+   Weight: 7
+   Hit:    90
+   Crit:   0
+   Price:  255
+   Uses:   25
+   Bonus:  0x00
+   Effect: none
+   Range:  1-2
+   Type:   tome
+
+
+33:
+   Might:  13
+   WLevel: prf_12
+   Weight: 3
+   Hit:    100
+   Crit:   20
+   Price:  255
+   Uses:   33
+   Bonus:  0x00
+   Effect: none
+   Range:  1-2
+   Type:   tome
+
+
+34:
+   Might:  14
+   WLevel: 15
+   Weight: 9
+   Hit:    70
+   Crit:   0
+   Price:  255
+   Uses:   18
+   Bonus:  0x00
+   Effect: maph
+   Range:  1-2
+   Type:   tome
+
+
+35:
+   Might:  13
+   WLevel: 9
+   Weight: 5
+   Hit:    100
+   Crit:   0
+   Price:  255
+   Uses:   12
+   Bonus:  0x00
+   Effect: none
+   Range:  1-2
+   Type:   tome
+
+
+36:
+   Might:  0
+   WLevel: 1
+   Weight: 0
+   Hit:    0
+   Crit:   0
+   Price:  78
+   Uses:   20
+   Bonus:  0x00
+   Effect: live
+   Range:  1_staff
+   Type:   staff
+
+
+37:
+   Might:  0
+   WLevel: 2
+   Weight: 0
+   Hit:    0
+   Crit:   0
+   Price:  120
+   Uses:   16
+   Bonus:  0x00
+   Effect: relive
+   Range:  1_staff
+   Type:   staff
+
+
+38:
+   Might:  0
+   WLevel: 3
+   Weight: 0
+   Hit:    0
+   Crit:   0
+   Price:  155
+   Uses:   13
+   Bonus:  0x00
+   Effect: recover
+   Range:  1_staff
+   Type:   staff
+
+
+39:
+   Might:  0
+   WLevel: 4
+   Weight: 0
+   Hit:    0
+   Crit:   0
+   Price:  175
+   Uses:   23
+   Bonus:  0x00
+   Effect: helarn
+   Range:  1_staff
+   Type:   staff
+
+
+3a:
+   Might:  0
+   WLevel: 5
+   Weight: 0
+   Hit:    0
+   Crit:   0
+   Price:  220
+   Uses:   7
+   Bonus:  0x00
+   Effect: warp
+   Range:  1_staff
+   Type:   staff
+
+
+3b:
+   Might:  0
+   WLevel: prf_11
+   Weight: 0
+   Hit:    0
+   Crit:   0
+   Price:  255
+   Uses:   12
+   Bonus:  0x00
+   Effect: hammerne
+   Range:  1_staff
+   Type:   staff
+
+
+3c:
+   Might:  0
+   WLevel: 7
+   Weight: 0
+   Hit:    0
+   Crit:   0
+   Price:  245
+   Uses:   10
+   Bonus:  0x00
+   Effect: live
+   Range:  long_staff
+   Type:   staff
+
+
+3d:
+   Might:  0
+   WLevel: 8
+   Weight: 0
+   Hit:    0
+   Crit:   0
+   Price:  250
+   Uses:   18
+   Bonus:  0x00
+   Effect: mshield
+   Range:  1_staff
+   Type:   staff
+
+
+3e:
+   Might:  0
+   WLevel: 8
+   Weight: 0
+   Hit:    0
+   Crit:   0
+   Price:  255
+   Uses:   12
+   Bonus:  0x00
+   Effect: reserve
+   Range:  long_staff
+   Type:   staff
+
+
+3f:
+   Might:  0
+   WLevel: prf_33
+   Weight: 0
+   Hit:    0
+   Crit:   0
+   Price:  255
+   Uses:   1
+   Bonus:  0x00
+   Effect: ohm
+   Range:  1_staff
+   Type:   staff
+
+
+40:
+   Might:  0
+   WLevel: 0
+   Weight: 0
+   Hit:    0
+   Crit:   0
+   Price:  60
+   Uses:   5
+   Bonus:  0x00
+   Effect: none
+   Range:  item_cmd
+   Type:   no_equip
+
+
+41:
+   Might:  0
+   WLevel: 0
+   Weight: 0
+   Hit:    0
+   Crit:   0
+   Price:  145
+   Uses:   5
+   Bonus:  0x00
+   Effect: none
+   Range:  item_cmd
+   Type:   no_equip
+
+
+42:
+   Might:  0
+   WLevel: 0
+   Weight: 0
+   Hit:    0
+   Crit:   0
+   Price:  50
+   Uses:   1
+   Bonus:  0x00
+   Effect: none
+   Range:  item_cmd
+   Type:   no_equip
+
+
+43:
+   Might:  0
+   WLevel: 0
+   Weight: 0
+   Hit:    0
+   Crit:   0
+   Price:  90
+   Uses:   1
+   Bonus:  0x00
+   Effect: none
+   Range:  item_cmd
+   Type:   no_equip
+
+
+44:
+   Might:  0
+   WLevel: 0
+   Weight: 0
+   Hit:    0
+   Crit:   0
+   Price:  255
+   Uses:   16
+   Bonus:  0x00
+   Effect: none
+   Range:  item_cmd
+   Type:   no_equip
+
+
+45:
+   Might:  9
+   WLevel: 0
+   Weight: 3
+   Hit:    90
+   Crit:   5
+   Price:  0
+   Uses:   0
+   Bonus:  0x09
+   Effect: none
+   Range:  none
+   Type:   no_equip
+
+
+46:
+   Might:  0
+   WLevel: 0
+   Weight: 0
+   Hit:    0
+   Crit:   0
+   Price:  255
+   Uses:   1
+   Bonus:  0x00
+   Effect: none
+   Range:  item_cmd
+   Type:   no_equip
+
+
+47:
+   Might:  0
+   WLevel: 0
+   Weight: 0
+   Hit:    0
+   Crit:   0
+   Price:  255
+   Uses:   1
+   Bonus:  0x00
+   Effect: magic_proof
+   Range:  item_cmd
+   Type:   no_equip
+
+
+48:
+   Might:  0
+   WLevel: 0
+   Weight: 0
+   Hit:    0
+   Crit:   0
+   Price:  255
+   Uses:   1
+   Bonus:  0x00
+   Effect: none
+   Range:  item_cmd
+   Type:   no_equip
+
+
+49:
+   Might:  0
+   WLevel: 0
+   Weight: 0
+   Hit:    0
+   Crit:   0
+   Price:  255
+   Uses:   1
+   Bonus:  0x00
+   Effect: none
+   Range:  item_cmd
+   Type:   no_equip
+
+
+4a:
+   Might:  0
+   WLevel: 0
+   Weight: 0
+   Hit:    0
+   Crit:   0
+   Price:  255
+   Uses:   1
+   Bonus:  0x00
+   Effect: none
+   Range:  item_cmd
+   Type:   no_equip
+
+
+4b:
+   Might:  0
+   WLevel: 0
+   Weight: 0
+   Hit:    0
+   Crit:   0
+   Price:  255
+   Uses:   1
+   Bonus:  0x00
+   Effect: none
+   Range:  item_cmd
+   Type:   no_equip
+
+
+4c:
+   Might:  0
+   WLevel: 0
+   Weight: 0
+   Hit:    0
+   Crit:   0
+   Price:  255
+   Uses:   1
+   Bonus:  0x00
+   Effect: none
+   Range:  item_cmd
+   Type:   no_equip
+
+
+4d:
+   Might:  0
+   WLevel: 0
+   Weight: 0
+   Hit:    0
+   Crit:   0
+   Price:  255
+   Uses:   1
+   Bonus:  0x00
+   Effect: none
+   Range:  item_cmd
+   Type:   no_equip
+
+
+4e:
+   Might:  0
+   WLevel: 0
+   Weight: 0
+   Hit:    0
+   Crit:   0
+   Price:  255
+   Uses:   1
+   Bonus:  0x00
+   Effect: none
+   Range:  item_cmd
+   Type:   no_equip
+
+
+4f:
+   Might:  0
+   WLevel: 0
+   Weight: 0
+   Hit:    0
+   Crit:   0
+   Price:  255
+   Uses:   1
+   Bonus:  0x00
+   Effect: none
+   Range:  item_cmd
+   Type:   no_equip
+
+
+50:
+   Might:  0
+   WLevel: 0
+   Weight: 0
+   Hit:    0
+   Crit:   0
+   Price:  200
+   Uses:   1
+   Bonus:  0x00
+   Effect: none
+   Range:  item_cmd
+   Type:   no_equip
+
+
+51:
+   Might:  0
+   WLevel: 0
+   Weight: 0
+   Hit:    0
+   Crit:   0
+   Price:  200
+   Uses:   1
+   Bonus:  0x00
+   Effect: none
+   Range:  item_cmd
+   Type:   no_equip
+
+
+52:
+   Might:  0
+   WLevel: 8
+   Weight: 0
+   Hit:    0
+   Crit:   0
+   Price:  200
+   Uses:   1
+   Bonus:  0x00
+   Effect: none
+   Range:  item_cmd
+   Type:   no_equip
+
+
+53:
+   Might:  0
+   WLevel: 0
+   Weight: 0
+   Hit:    0
+   Crit:   0
+   Price:  200
+   Uses:   1
+   Bonus:  0x00
+   Effect: none
+   Range:  item_cmd
+   Type:   no_equip
+
+
+54:
+   Might:  0
+   WLevel: 0
+   Weight: 0
+   Hit:    0
+   Crit:   0
+   Price:  200
+   Uses:   1
+   Bonus:  0x00
+   Effect: none
+   Range:  item_cmd
+   Type:   no_equip
+
+
+55:
+   Might:  0
+   WLevel: 0
+   Weight: 0
+   Hit:    0
+   Crit:   0
+   Price:  255
+   Uses:   3
+   Bonus:  0x00
+   Effect: none
+   Range:  item_cmd
+   Type:   no_equip
+
+
+56:
+   Might:  0
+   WLevel: 0
+   Weight: 0
+   Hit:    0
+   Crit:   0
+   Price:  255
+   Uses:   3
+   Bonus:  0x00
+   Effect: none
+   Range:  item_cmd
+   Type:   no_equip
+
+
+57:
+   Might:  0
+   WLevel: 0
+   Weight: 0
+   Hit:    0
+   Crit:   0
+   Price:  255
+   Uses:   3
+   Bonus:  0x00
+   Effect: none
+   Range:  item_cmd
+   Type:   no_equip
+
+
+58:
+   Might:  0
+   WLevel: 0
+   Weight: 0
+   Hit:    0
+   Crit:   0
+   Price:  255
+   Uses:   255
+   Bonus:  0x00
+   Effect: none
+   Range:  no_cmd
+   Type:   no_equip
+
+
+59:
+   Might:  0
+   WLevel: 0
+   Weight: 0
+   Hit:    0
+   Crit:   0
+   Price:  255
+   Uses:   255
+   Bonus:  0x00
+   Effect: none
+   Range:  no_cmd
+   Type:   no_equip
+
+
+5a:
+   Might:  0
+   WLevel: 0
+   Weight: 0
+   Hit:    0
+   Crit:   0
+   Price:  255
+   Uses:   255
+   Bonus:  0x00
+   Effect: none
+   Range:  no_cmd
+   Type:   no_equip
+
+
+5b:
+   Might:  0
+   WLevel: 0
+   Weight: 0
+   Hit:    0
+   Crit:   0
+   Price:  255
+   Uses:   255
+   Bonus:  0x00
+   Effect: none
+   Range:  no_cmd
+   Type:   no_equip
+
+
+5c:
+   Might:  0
+   WLevel: 0
+   Weight: 0
+   Hit:    0
+   Crit:   0
+   Price:  255
+   Uses:   255
+   Bonus:  0x00
+   Effect: none
+   Range:  no_cmd
+   Type:   no_equip
+
+

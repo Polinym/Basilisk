@@ -1,0 +1,3 @@
+Name: No Weapon Triangle
+Desc: When added, weapon type advantage will no longer reduce hit rate for the opponent. This restores the vanilla game behavior.
+Credit: Polinym

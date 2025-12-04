@@ -1,0 +1,3 @@
+Name: Dragon Warrior Font
+Desc: Replaces the game font with the one from Dragon Warrior / Quest NES.
+Credit: Dragon Warrior III

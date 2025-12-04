@@ -1,0 +1,13 @@
+{00}
+Y: 1b
+X: 1b
+Reward: 00
+Line: 3b
+Music: 20
+{01}
+Y: 02
+X: 15
+Reward: 00
+Line: 30
+Music: 00
+{END}

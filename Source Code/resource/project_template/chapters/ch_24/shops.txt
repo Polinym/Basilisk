@@ -1,0 +1,21 @@
+{00}
+Y: 03
+X: 04
+Type: 04
+List: 00
+{01}
+Y: 02
+X: 03
+Type: 01
+List: 05
+{02}
+Y: 02
+X: 04
+Type: 02
+List: 0a
+{03}
+Y: 1c
+X: 01
+Type: 05
+List: 13
+{END}

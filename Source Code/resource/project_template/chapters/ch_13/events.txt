@@ -1,0 +1,25 @@
+{00}
+Y: 0c
+X: 04
+Reward: 00
+Line: 2f
+Music: 20
+{01}
+Y: 08
+X: 0d
+Reward: 00
+Line: 1c
+Music: 00
+{02}
+Y: 10
+X: 0d
+Reward: 00
+Line: 1d
+Music: 00
+{03}
+Y: 09
+X: 14
+Reward: 80
+Line: 34
+Music: 04
+{END}

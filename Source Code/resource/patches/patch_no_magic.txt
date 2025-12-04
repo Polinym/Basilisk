@@ -1,0 +1,3 @@
+Name: No Magic Stat
+Desc: When added, Strength is no longer added to Tome attacks, and the stats screen won't display MAGIC for magic units. This restores the vanilla game behavior.
+Credit: Polinym

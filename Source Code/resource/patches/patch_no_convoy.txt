@@ -1,0 +1,3 @@
+Name: No Convoy From Anywhere
+Desc: When added, units must be on the Storage tile to access the Storage/Convoy. This restores the vanilla game behavior.
+Credit: Polinym

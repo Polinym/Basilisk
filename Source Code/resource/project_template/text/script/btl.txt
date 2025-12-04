@@ -1,0 +1,607 @@
+{00}
+[BTL_WINDOW]
+<delta>A fell!
+<delta>C got <delta>B EXP!
+[NEXT]
+
+[END]
+
+
+{01}
+[BTL_WINDOW]
+<delta>C's Level
+became <delta>B!
+[END]
+
+
+{02}
+[BTL_WINDOW]
+<delta>A rose by <delta>B.
+[END]
+
+
+{03}
+[BTL_WINDOW]
+<delta>A fell!
+[END]
+
+
+{04}
+ISQE<delta>A had
+<delta>B!
+<delta>C got
+<delta>B!
+[END]
+
+
+{05}
+[BTL_WINDOW]
+<delta>C fell!
+[NEXT]
+
+[END]
+
+
+{06}
+[BTL_WINDOW]
+<Prince Mars_>
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{07}
+[BTL_WINDOW]
+<Prince Mars,
+I'm sorry_>
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{08}
+[BTL_WINDOW]
+<Prince Mars,
+good luck_>
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{09}
+[BTL_WINDOW]
+<Prince Mars,
+forgive me_>
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{0a}
+[BTL_WINDOW]
+<I-I'm sorry_>
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{0b}
+[BTL_WINDOW]
+<delta>C fell!
+[NEXT]
+
+[END]
+
+
+{0c}
+[BTL_WINDOW]
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{0d}
+[BTL_WINDOW]
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{0e}
+[BTL_WINDOW]
+<delta>C fell!
+[NEXT]
+
+[END]
+
+
+{0f}
+[BTL_WINDOW]
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{10}
+[BTL_WINDOW]
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{11}
+[BTL_WINDOW]
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{12}
+[BTL_WINDOW]
+<Princess
+Sheeda, I'm
+sorry_>
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{13}
+[BTL_WINDOW]
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{14}
+[BTL_WINDOW]
+<I-I'm about done
+for. See ya_>
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{15}
+[BTL_WINDOW]
+<Julian_>
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{16}
+[BTL_WINDOW]
+<Prince Mars,
+forgive me_>
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{17}
+[BTL_WINDOW]
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{18}
+[BTL_WINDOW]
+<I-I'm sorry_>
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{19}
+[BTL_WINDOW]
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{1a}
+[BTL_WINDOW]
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{1b}
+[BTL_WINDOW]
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{1c}
+[BTL_WINDOW]
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{1d}
+[BTL_WINDOW]
+<Oh Chiki_>
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{1e}
+[BTL_WINDOW]
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{1f}
+[BTL_WINDOW]
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{20}
+[BTL_WINDOW]
+<Prince Mars,
+forgive me_>
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{21}
+[BTL_WINDOW]
+<Princess Minerva,
+forgive me_>
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{22}
+[BTL_WINDOW]
+<Princess Minerva,
+forgive me_>
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{23}
+[BTL_WINDOW]
+<Prince Mars,
+forgive me_>
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{24}
+[BTL_WINDOW]
+<Prince Mars,
+forgive me_>
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{25}
+[BTL_WINDOW]
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{26}
+[BTL_WINDOW]
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{27}
+[BTL_WINDOW]
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{28}
+[BTL_WINDOW]
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{29}
+[BTL_WINDOW]
+<So my life ends
+here, on foreign
+soil? So be it_>
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{2a}
+[BTL_WINDOW]
+<I-I'm sorry_>
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{2b}
+[BTL_WINDOW]
+<I-I'm sorry_>
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{2c}
+[BTL_WINDOW]
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{2d}
+[BTL_WINDOW]
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{2e}
+[BTL_WINDOW]
+<Prince Mars,
+forgive me_>
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{2f}
+[BTL_WINDOW]
+<Princess Minerva,
+forgive me_>
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{30}
+[BTL_WINDOW]
+<I-I'm sorry_>
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{31}
+[BTL_WINDOW]
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{32}
+[BTL_WINDOW]
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{33}
+[BTL_WINDOW]
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{34}
+[BTL_WINDOW]
+<Princess Minerva,
+forgive me_>
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{35}
+[BTL_WINDOW]
+<I-I'm sorry,
+Grampa.>
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{36}
+[BTL_WINDOW]
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{37}
+[BTL_WINDOW]
+<Mars, don't give
+up_>
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{38}
+[BTL_WINDOW]
+<delta>C died!
+[NEXT]
+
+[END]
+
+
+{39}
+[BTL_WINDOW]
+Resisted
+<delta>A's blow!
+<delta>C got <delta>B EXP.
+[NEXT]
+
+[END]
+
+
+{3a}
+[BTL_WINDOW]
+Resisted!
+[NEXT]
+
+[END]
+
+
+{3b}
+[BTL_WINDOW]
+<delta>C's class
+changed to
+<delta>B.
+[NEXT]
+
+[END]
+
+
+{3c}
+[BTL_WINDOW]
+<delta>C morphed
+into <delta>B.
+[NEXT]
+
+[END]
+
+
+{3d}
+[BTL_WINDOW]
+<Urgh_
+I could be_
+defeated by humans_?
+But the heart.
+The Aritian Prince,
+whom light preserves_
+One day_
+_one day_
+When evil consumes 
+the hearts of men,
+my incarnation
+will apear.
+The heart_
+As long as there
+is light, darkness
+will never fade_>
+[NEXT]
+
+
+
+
+[END]
+
+
+{3e}
+[BTL_WINDOW]
+<delta>D hit(s)!
+<delta>C got <delta>B EXP!
+[NEXT]
+
+
+
+
+[END]
+
+
+{3f}
+[BTL_WINDOW]
+<Ack, I_
+the Starlight_
+my mistake_
+But know this.
+Even though I die
+to that power, it
+won't be enough to
+defeat Mediuth_
+Heh heh heh_
+I'll be patiently
+waiting for you_
+_on the SNES!>
+[NEXT]
+
+
+
+
+[END]
+
+
+{40}
+[BTL_WINDOW]
+<Nyna_
+my dearest_
+Fare_ well_>
+[NEXT]
+
+
+
+
+[END]
+
+
+

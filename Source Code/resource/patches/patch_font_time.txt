@@ -1,0 +1,3 @@
+Name: Time For Tom Font
+Desc: Replaces the game font with the one from Time For Tom: Excellent Edition
+Credit: Polinym

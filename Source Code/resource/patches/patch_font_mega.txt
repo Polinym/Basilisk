@@ -1,0 +1,3 @@
+Name: Megakoopax Font
+Desc: Replaces the game font with the one from Megakoopax's revision patch.
+Credit: https://www.romhacking.net/translations/2800/
