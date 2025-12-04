@@ -14,6 +14,8 @@ More editors may come, but you can try using ThingMaker in the meantime to make 
 
 See the readme in the .ZIP for more information on how to use.
 
+The source code is also included for both programs. I've have not had time to write up comments for how everything works, so good luck figuring it out.
+
 If you like this, be sure to support my indie game, Octo Vinctum, on Steam!
 https://store.steampowered.com/app/1899110/Octo_Vinctum_Revenge_of_the_Czar/
 Or check out some of my cool FREE games on Itch.io!
