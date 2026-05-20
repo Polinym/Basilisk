@@ -16,17 +16,15 @@ See the readme in the .ZIP for more information on how to use.
 
 The source code is also included for both programs. I've have not had time to write up comments for how everything works, so good luck figuring it out.
 
-Just want to play some FE1 hacks? Or looking for inspiration? Check out these hacks:
+**Just want to play some FE1 hacks? Or looking for inspiration? Check out these hacks:**
 
-Time For Tom: Thomas and Jake's Excellent Adventure: https://feuniverse.us/t/fe1-time-for-tom-excellent-edition/30172
+_Time For Tom: Thomas and Jake's Excellent Adventure_: https://feuniverse.us/t/fe1-time-for-tom-excellent-edition/30172
 
-Illusion of Serenity: https://feuniverse.us/t/fe1-fe-illusion-of-serenity-20-chapters-complete/36494
+_Illusion of Serenity_: https://feuniverse.us/t/fe1-fe-illusion-of-serenity-20-chapters-complete/36494
+
+_Nintendo Switch Translation port_: https://forums.serenesforest.net/topic/107079-fe1-with-nintendo-switch-translation-95-complete/
 
 
-
-
-If you like this, be sure to support my indie game, Octo Vinctum, on Steam!
-https://store.steampowered.com/app/1899110/Octo_Vinctum_Revenge_of_the_Czar/
-Or check out some of my cool FREE games on Itch.io!
+If you like this stuff, you can support me by checking out my cool games on Itch.Io. They're completely free!
 https://polinym.itch.io/
 
